@@ -5,6 +5,7 @@ run:
 	go run .
 
 ncommit:
+	go mod tidy
 	git add .
 	git commit -m "ncommit"
 	git push origin main
