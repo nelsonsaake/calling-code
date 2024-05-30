@@ -1,6 +1,8 @@
 package main
 
 import (
+	"net/http"
+
 	"github.com/nelsonsaake/go-ns/axios"
 	"github.com/nelsonsaake/go-ns/pretty"
 )
@@ -29,7 +31,7 @@ func (country *Country) callingCode() CallingCode {
 	}
 }
 
-func main() {
+func main1() {
 
 	var (
 		url = "https://restcountries.com/v3.1/all?fields=name,flags,idd"
@@ -53,4 +55,13 @@ func main() {
 		// callingCodes = append(callingCodes)
 		pretty.Print(country)
 	}
+}
+
+func main() {
+
+	var (
+		url = "https://restcountries.com/v3.1/all?fields=name,flags,idd"
+	)
+
+	http.Get(url)
 }
