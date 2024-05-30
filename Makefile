@@ -7,7 +7,7 @@ run:
 ncommit:
 	git add .
 	git commit -m "ncommit"
-	git git push origin main
+	git push origin main
 
 temp: 
 	go get github.com/alediaferia/gocountries
