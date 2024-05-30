@@ -1,71 +1,53 @@
 package main
 
 import (
-	"net/http"
+	"encoding/json"
 
-	"github.com/nelsonsaake/go-ns/axios"
+	"github.com/nelsonsaake/calling-code/app/models"
 	"github.com/nelsonsaake/go-ns/pretty"
+	"github.com/nelsonsaake/go-ns/ufs"
 )
 
-type CallingCode struct {
-	CountryCode string `json:"countryCode"`
-	CallingCode string `json:"callingCode"`
-	Flag        string `json:"flag"`
-}
-
-type Country struct {
-	CountryCode string `json:"cca2"`
-	Flags       struct {
-		Png string `json:"flags.png"`
-	} `json:"flags"`
-	Idd struct {
-		Root     string   `json:"root"`
-		Suffixes []string `json:"suffixes"`
-	} `json:"idd"`
-}
-
-func (country *Country) callingCode() CallingCode {
-	return CallingCode{
-		Flag: country.Flags.Png,
-		// CountryCode: country.Name.,
-	}
-}
-
-func main1() {
-
-	var (
-		url = "https://restcountries.com/v3.1/all?fields=name,flags,idd"
-	)
-
-	client := axios.New()
-
-	res, err := client.Get(url)
-	if err != nil {
-		panic(err)
-	}
-
-	countries := []Country{}
-	err = res.Bind(&countries)
-	if err != nil {
-		panic(err)
-	}
-
-	// callingCodes := []CallingCode{}
-	for _, country := range countries {
-		// callingCodes = append(callingCodes)
-		pretty.Print(country)
-	}
-}
+var (
+	countriesJsonFile = "countries.json"
+	countries         = []models.Country{}
+	callingCodes      = []models.CallingCode{}
+)
 
 func main() {
 
-	var (
-		url = "https://restcountries.com/v3.1/all?fields=name,flags,idd"
-	)
-
-	res, err := http.Get(url)
+	bs, err := ufs.ReadFileAsBytes(countriesJsonFile)
 	if err != nil {
 		panic(err)
 	}
 
+	err = json.Unmarshal(bs, &countries)
+	if err != nil {
+		panic(err)
+	}
+
+	toCallingCodes := func(country models.Country, suffix string) models.CallingCode {
+		return models.CallingCode{
+			Flag:        country.Flags.Png,
+			CountryCode: country.CountryCode,
+			CallingCode: country.Idd.Root + suffix,
+		}
+	}
+
+	for _, country := range countries {
+
+		if len(country.Idd.Suffixes) == 0 {
+			callingCodes = append(callingCodes, toCallingCodes(country, ""))
+			continue
+		}
+
+		for _, suf := range country.Idd.Suffixes {
+			callingCodes = append(callingCodes, toCallingCodes(country, suf))
+		}
+	}
+
+	err = ufs.WriteFile("calling_codes.json", pretty.JSON(callingCodes))
+	if err != nil {
+		panic(err)
+	}
 }

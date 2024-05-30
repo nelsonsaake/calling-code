@@ -7,3 +7,7 @@ So we focus on:
 - country code (eg. GH),
 - calling code (eg. +233)
 
+
+## source 
+
+Data source: https://restcountries.com/v3.1/all?fields=name,flags,idd,cca2

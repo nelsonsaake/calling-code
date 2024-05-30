@@ -1,8 +1,6 @@
-github.com/nelsonsaake/go-ns v0.0.4 h1:bOVri1kClnEyDwV2Lfb6BoHS42xRR5NqtSJv6p/tSA8=
-github.com/nelsonsaake/go-ns v0.0.4/go.mod h1:H1OZm6ies+SO/Kkhgg2UdTj4yYimQIpL/O76HtOYXJ8=
-github.com/nelsonsaake/go-ns v0.0.5 h1://xsZBvNYDvN8KpJjClhCy45CULSjA/4N4r2X46+XIY=
-github.com/nelsonsaake/go-ns v0.0.5/go.mod h1:H1OZm6ies+SO/Kkhgg2UdTj4yYimQIpL/O76HtOYXJ8=
-github.com/nelsonsaake/go-ns v0.0.6 h1:Qyh2sb6XGUxvS0zg19xs4JbiM2XkBPtWMzbLuKi+Y7Y=
-github.com/nelsonsaake/go-ns v0.0.6/go.mod h1:H1OZm6ies+SO/Kkhgg2UdTj4yYimQIpL/O76HtOYXJ8=
-github.com/nelsonsaake/go-ns v0.0.7 h1:jzSleB/c41ZKPCKXrg0nyCU1+yAX+fMI+Q9LVEq/9jA=
-github.com/nelsonsaake/go-ns v0.0.7/go.mod h1:H1OZm6ies+SO/Kkhgg2UdTj4yYimQIpL/O76HtOYXJ8=
+github.com/nelsonsaake/go-ns v0.0.9 h1:gg8HCkO6Q8vmdDc+1QEPCYhm7/BNV28OAqR4/HB5xXc=
+github.com/nelsonsaake/go-ns v0.0.9/go.mod h1:H1OZm6ies+SO/Kkhgg2UdTj4yYimQIpL/O76HtOYXJ8=
+github.com/nelsonsaake/go-ns v0.0.11 h1:haI5YWJ1gpJFbYf36w5B/sx2l9sRg8/0W6DcJj9w2LE=
+github.com/nelsonsaake/go-ns v0.0.11/go.mod h1:jjv/ymaOB118C/gLzfWpf0lvSDKdoomSeJJ3QWMb12A=
+github.com/nelsonsaake/go-ns v0.0.12 h1:gvNFOBOrWza8nsQLRWEVM2c5ru5RVAjC/PF7Ip5FlBw=
+github.com/nelsonsaake/go-ns v0.0.12/go.mod h1:jjv/ymaOB118C/gLzfWpf0lvSDKdoomSeJJ3QWMb12A=

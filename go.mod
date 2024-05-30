@@ -1,5 +1,5 @@
-module calling-codes
+module github.com/nelsonsaake/calling-code
 
-go 1.21.0
+go 1.22.3
 
-require github.com/nelsonsaake/go-ns v0.0.7 // indirect
+require github.com/nelsonsaake/go-ns v0.0.12 // indirect
