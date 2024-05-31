@@ -1,4 +1,4 @@
-.PHONY: run ncommit temp get 
+.PHONY: run ncommit temp get pull
 
 run:
 	cls
@@ -17,3 +17,6 @@ get:
 	cls
 	go get github.com/nelsonsaake/go-ns@v0.0.12
 	go get github.com/nelsonsaake/go-ns@latest
+
+pull:
+	git pull origin main
