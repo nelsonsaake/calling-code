@@ -27,11 +27,21 @@ func main() {
 	}
 
 	toCallingCodes := func(country models.Country) models.CallingCode {
+
+		var root = country.Idd.Root
+		var suffixes = []string{}
+
+		if len(country.Idd.Suffixes) == 1 {
+			root += country.Idd.Suffixes[0]
+		} else {
+			suffixes = country.Idd.Suffixes
+		}
+
 		return models.CallingCode{
 			Flag:        country.Flags.Png,
 			CountryCode: country.CountryCode,
-			Root:        country.Idd.Root,
-			Suffixes:    country.Idd.Suffixes,
+			Root:        root,
+			Suffixes:    suffixes,
 		}
 	}
 
