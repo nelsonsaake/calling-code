@@ -1,2887 +1,2325 @@
 [
   {
     "countryCode": "MD",
-    "callingCode": "+373",
-    "flag": "https://flagcdn.com/w320/md.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1201",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1202",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1203",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1205",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1206",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1207",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1208",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1209",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1210",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1212",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1213",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1214",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1215",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1216",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1217",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1218",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1219",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1220",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1224",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1225",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1227",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1228",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1229",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1231",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1234",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1239",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1240",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1248",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1251",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1252",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1253",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1254",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1256",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1260",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1262",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1267",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1269",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1270",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1272",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1274",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1276",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1281",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1283",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1301",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1302",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1303",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1304",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1305",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1307",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1308",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1309",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1310",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1312",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1313",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1314",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1315",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1316",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1317",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1318",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1319",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1320",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1321",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1323",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1325",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1327",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1330",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1331",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1334",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1336",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1337",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1339",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1346",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1347",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1351",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1352",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1360",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1361",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1364",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1380",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1385",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1386",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1401",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1402",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1404",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1405",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1406",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1407",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1408",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1409",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1410",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1412",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1413",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1414",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1415",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1417",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1419",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1423",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1424",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1425",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1430",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1432",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1434",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1435",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1440",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1442",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1443",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1447",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1458",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1463",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1464",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1469",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1470",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1475",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1478",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1479",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1480",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1484",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1501",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1502",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1503",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1504",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1505",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1507",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1508",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1509",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1510",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1512",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1513",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1515",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1516",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1517",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1518",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1520",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1530",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1531",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1534",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1539",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1540",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1541",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1551",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1559",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1561",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1562",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1563",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1564",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1567",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1570",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1571",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1573",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1574",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1575",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1580",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1585",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1586",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1601",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1602",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1603",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1605",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1606",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1607",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1608",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1609",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1610",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1612",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1614",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1615",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1616",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1617",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1618",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1619",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1620",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1623",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1626",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1628",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1629",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1630",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1631",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1636",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1641",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1646",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1650",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1651",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1657",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1660",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1661",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1662",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1667",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1669",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1678",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1681",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1682",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1701",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1702",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1703",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1704",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1706",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1707",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1708",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1712",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1713",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1714",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1715",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1716",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1717",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1718",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1719",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1720",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1724",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1725",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1727",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1730",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1731",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1732",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1734",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1737",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1740",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1743",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1747",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1754",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1757",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1760",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1762",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1763",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1765",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1769",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1770",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1772",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1773",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1774",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1775",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1779",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1781",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1785",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1786",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1801",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1802",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1803",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1804",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1805",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1806",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1808",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1810",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1812",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1813",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1814",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1815",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1816",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1817",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1818",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1828",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1830",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1831",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1832",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1843",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1845",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1847",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1848",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1850",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1854",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1856",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1857",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1858",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1859",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1860",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1862",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1863",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1864",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1865",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1870",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1872",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1878",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1901",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1903",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1904",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1906",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1907",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1908",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1909",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1910",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1912",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1913",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1914",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1915",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1916",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1917",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1918",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1919",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1920",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1925",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1928",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1929",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1930",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1931",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1934",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1936",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1937",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1938",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1940",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1941",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1947",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1949",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1951",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1952",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1954",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1956",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1959",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1970",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1971",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1972",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1973",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1975",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1978",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1979",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1980",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1984",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1985",
-    "flag": "https://flagcdn.com/w320/us.png"
-  },
-  {
-    "countryCode": "US",
-    "callingCode": "+1989",
-    "flag": "https://flagcdn.com/w320/us.png"
+    "flag": "https://flagcdn.com/w320/md.png",
+    "root": "+3",
+    "suffixes": [
+      "73"
+    ]
+  },
+  {
+    "countryCode": "US",
+    "flag": "https://flagcdn.com/w320/us.png",
+    "root": "+1",
+    "suffixes": [
+      "201",
+      "202",
+      "203",
+      "205",
+      "206",
+      "207",
+      "208",
+      "209",
+      "210",
+      "212",
+      "213",
+      "214",
+      "215",
+      "216",
+      "217",
+      "218",
+      "219",
+      "220",
+      "224",
+      "225",
+      "227",
+      "228",
+      "229",
+      "231",
+      "234",
+      "239",
+      "240",
+      "248",
+      "251",
+      "252",
+      "253",
+      "254",
+      "256",
+      "260",
+      "262",
+      "267",
+      "269",
+      "270",
+      "272",
+      "274",
+      "276",
+      "281",
+      "283",
+      "301",
+      "302",
+      "303",
+      "304",
+      "305",
+      "307",
+      "308",
+      "309",
+      "310",
+      "312",
+      "313",
+      "314",
+      "315",
+      "316",
+      "317",
+      "318",
+      "319",
+      "320",
+      "321",
+      "323",
+      "325",
+      "327",
+      "330",
+      "331",
+      "334",
+      "336",
+      "337",
+      "339",
+      "346",
+      "347",
+      "351",
+      "352",
+      "360",
+      "361",
+      "364",
+      "380",
+      "385",
+      "386",
+      "401",
+      "402",
+      "404",
+      "405",
+      "406",
+      "407",
+      "408",
+      "409",
+      "410",
+      "412",
+      "413",
+      "414",
+      "415",
+      "417",
+      "419",
+      "423",
+      "424",
+      "425",
+      "430",
+      "432",
+      "434",
+      "435",
+      "440",
+      "442",
+      "443",
+      "447",
+      "458",
+      "463",
+      "464",
+      "469",
+      "470",
+      "475",
+      "478",
+      "479",
+      "480",
+      "484",
+      "501",
+      "502",
+      "503",
+      "504",
+      "505",
+      "507",
+      "508",
+      "509",
+      "510",
+      "512",
+      "513",
+      "515",
+      "516",
+      "517",
+      "518",
+      "520",
+      "530",
+      "531",
+      "534",
+      "539",
+      "540",
+      "541",
+      "551",
+      "559",
+      "561",
+      "562",
+      "563",
+      "564",
+      "567",
+      "570",
+      "571",
+      "573",
+      "574",
+      "575",
+      "580",
+      "585",
+      "586",
+      "601",
+      "602",
+      "603",
+      "605",
+      "606",
+      "607",
+      "608",
+      "609",
+      "610",
+      "612",
+      "614",
+      "615",
+      "616",
+      "617",
+      "618",
+      "619",
+      "620",
+      "623",
+      "626",
+      "628",
+      "629",
+      "630",
+      "631",
+      "636",
+      "641",
+      "646",
+      "650",
+      "651",
+      "657",
+      "660",
+      "661",
+      "662",
+      "667",
+      "669",
+      "678",
+      "681",
+      "682",
+      "701",
+      "702",
+      "703",
+      "704",
+      "706",
+      "707",
+      "708",
+      "712",
+      "713",
+      "714",
+      "715",
+      "716",
+      "717",
+      "718",
+      "719",
+      "720",
+      "724",
+      "725",
+      "727",
+      "730",
+      "731",
+      "732",
+      "734",
+      "737",
+      "740",
+      "743",
+      "747",
+      "754",
+      "757",
+      "760",
+      "762",
+      "763",
+      "765",
+      "769",
+      "770",
+      "772",
+      "773",
+      "774",
+      "775",
+      "779",
+      "781",
+      "785",
+      "786",
+      "801",
+      "802",
+      "803",
+      "804",
+      "805",
+      "806",
+      "808",
+      "810",
+      "812",
+      "813",
+      "814",
+      "815",
+      "816",
+      "817",
+      "818",
+      "828",
+      "830",
+      "831",
+      "832",
+      "843",
+      "845",
+      "847",
+      "848",
+      "850",
+      "854",
+      "856",
+      "857",
+      "858",
+      "859",
+      "860",
+      "862",
+      "863",
+      "864",
+      "865",
+      "870",
+      "872",
+      "878",
+      "901",
+      "903",
+      "904",
+      "906",
+      "907",
+      "908",
+      "909",
+      "910",
+      "912",
+      "913",
+      "914",
+      "915",
+      "916",
+      "917",
+      "918",
+      "919",
+      "920",
+      "925",
+      "928",
+      "929",
+      "930",
+      "931",
+      "934",
+      "936",
+      "937",
+      "938",
+      "940",
+      "941",
+      "947",
+      "949",
+      "951",
+      "952",
+      "954",
+      "956",
+      "959",
+      "970",
+      "971",
+      "972",
+      "973",
+      "975",
+      "978",
+      "979",
+      "980",
+      "984",
+      "985",
+      "989"
+    ]
   },
   {
     "countryCode": "YT",
-    "callingCode": "+262",
-    "flag": "https://flagcdn.com/w320/yt.png"
+    "flag": "https://flagcdn.com/w320/yt.png",
+    "root": "+2",
+    "suffixes": [
+      "62"
+    ]
   },
   {
     "countryCode": "NR",
-    "callingCode": "+674",
-    "flag": "https://flagcdn.com/w320/nr.png"
+    "flag": "https://flagcdn.com/w320/nr.png",
+    "root": "+6",
+    "suffixes": [
+      "74"
+    ]
   },
   {
     "countryCode": "MZ",
-    "callingCode": "+258",
-    "flag": "https://flagcdn.com/w320/mz.png"
+    "flag": "https://flagcdn.com/w320/mz.png",
+    "root": "+2",
+    "suffixes": [
+      "58"
+    ]
   },
   {
     "countryCode": "BR",
-    "callingCode": "+55",
-    "flag": "https://flagcdn.com/w320/br.png"
+    "flag": "https://flagcdn.com/w320/br.png",
+    "root": "+5",
+    "suffixes": [
+      "5"
+    ]
   },
   {
     "countryCode": "CV",
-    "callingCode": "+238",
-    "flag": "https://flagcdn.com/w320/cv.png"
+    "flag": "https://flagcdn.com/w320/cv.png",
+    "root": "+2",
+    "suffixes": [
+      "38"
+    ]
   },
   {
     "countryCode": "GQ",
-    "callingCode": "+240",
-    "flag": "https://flagcdn.com/w320/gq.png"
+    "flag": "https://flagcdn.com/w320/gq.png",
+    "root": "+2",
+    "suffixes": [
+      "40"
+    ]
   },
   {
     "countryCode": "AL",
-    "callingCode": "+355",
-    "flag": "https://flagcdn.com/w320/al.png"
+    "flag": "https://flagcdn.com/w320/al.png",
+    "root": "+3",
+    "suffixes": [
+      "55"
+    ]
   },
   {
     "countryCode": "VI",
-    "callingCode": "+1340",
-    "flag": "https://flagcdn.com/w320/vi.png"
+    "flag": "https://flagcdn.com/w320/vi.png",
+    "root": "+1",
+    "suffixes": [
+      "340"
+    ]
   },
   {
     "countryCode": "NU",
-    "callingCode": "+683",
-    "flag": "https://flagcdn.com/w320/nu.png"
+    "flag": "https://flagcdn.com/w320/nu.png",
+    "root": "+6",
+    "suffixes": [
+      "83"
+    ]
   },
   {
     "countryCode": "PW",
-    "callingCode": "+680",
-    "flag": "https://flagcdn.com/w320/pw.png"
+    "flag": "https://flagcdn.com/w320/pw.png",
+    "root": "+6",
+    "suffixes": [
+      "80"
+    ]
   },
   {
     "countryCode": "NG",
-    "callingCode": "+234",
-    "flag": "https://flagcdn.com/w320/ng.png"
+    "flag": "https://flagcdn.com/w320/ng.png",
+    "root": "+2",
+    "suffixes": [
+      "34"
+    ]
   },
   {
     "countryCode": "VG",
-    "callingCode": "+1284",
-    "flag": "https://flagcdn.com/w320/vg.png"
+    "flag": "https://flagcdn.com/w320/vg.png",
+    "root": "+1",
+    "suffixes": [
+      "284"
+    ]
   },
   {
     "countryCode": "GM",
-    "callingCode": "+220",
-    "flag": "https://flagcdn.com/w320/gm.png"
+    "flag": "https://flagcdn.com/w320/gm.png",
+    "root": "+2",
+    "suffixes": [
+      "20"
+    ]
   },
   {
     "countryCode": "SO",
-    "callingCode": "+252",
-    "flag": "https://flagcdn.com/w320/so.png"
+    "flag": "https://flagcdn.com/w320/so.png",
+    "root": "+2",
+    "suffixes": [
+      "52"
+    ]
   },
   {
     "countryCode": "YE",
-    "callingCode": "+967",
-    "flag": "https://flagcdn.com/w320/ye.png"
+    "flag": "https://flagcdn.com/w320/ye.png",
+    "root": "+9",
+    "suffixes": [
+      "67"
+    ]
   },
   {
     "countryCode": "MY",
-    "callingCode": "+60",
-    "flag": "https://flagcdn.com/w320/my.png"
+    "flag": "https://flagcdn.com/w320/my.png",
+    "root": "+6",
+    "suffixes": [
+      "0"
+    ]
   },
   {
     "countryCode": "DM",
-    "callingCode": "+1767",
-    "flag": "https://flagcdn.com/w320/dm.png"
+    "flag": "https://flagcdn.com/w320/dm.png",
+    "root": "+1",
+    "suffixes": [
+      "767"
+    ]
   },
   {
     "countryCode": "GB",
-    "callingCode": "+44",
-    "flag": "https://flagcdn.com/w320/gb.png"
+    "flag": "https://flagcdn.com/w320/gb.png",
+    "root": "+4",
+    "suffixes": [
+      "4"
+    ]
   },
   {
     "countryCode": "MG",
-    "callingCode": "+261",
-    "flag": "https://flagcdn.com/w320/mg.png"
+    "flag": "https://flagcdn.com/w320/mg.png",
+    "root": "+2",
+    "suffixes": [
+      "61"
+    ]
   },
   {
     "countryCode": "EH",
-    "callingCode": "+2125288",
-    "flag": "https://flagcdn.com/w320/eh.png"
-  },
-  {
-    "countryCode": "EH",
-    "callingCode": "+2125289",
-    "flag": "https://flagcdn.com/w320/eh.png"
+    "flag": "https://flagcdn.com/w320/eh.png",
+    "root": "+2",
+    "suffixes": [
+      "125288",
+      "125289"
+    ]
   },
   {
     "countryCode": "CY",
-    "callingCode": "+357",
-    "flag": "https://flagcdn.com/w320/cy.png"
+    "flag": "https://flagcdn.com/w320/cy.png",
+    "root": "+3",
+    "suffixes": [
+      "57"
+    ]
   },
   {
     "countryCode": "AG",
-    "callingCode": "+1268",
-    "flag": "https://flagcdn.com/w320/ag.png"
+    "flag": "https://flagcdn.com/w320/ag.png",
+    "root": "+1",
+    "suffixes": [
+      "268"
+    ]
   },
   {
     "countryCode": "IE",
-    "callingCode": "+353",
-    "flag": "https://flagcdn.com/w320/ie.png"
+    "flag": "https://flagcdn.com/w320/ie.png",
+    "root": "+3",
+    "suffixes": [
+      "53"
+    ]
   },
   {
     "countryCode": "PY",
-    "callingCode": "+595",
-    "flag": "https://flagcdn.com/w320/py.png"
+    "flag": "https://flagcdn.com/w320/py.png",
+    "root": "+5",
+    "suffixes": [
+      "95"
+    ]
   },
   {
     "countryCode": "LK",
-    "callingCode": "+94",
-    "flag": "https://flagcdn.com/w320/lk.png"
+    "flag": "https://flagcdn.com/w320/lk.png",
+    "root": "+9",
+    "suffixes": [
+      "4"
+    ]
   },
   {
     "countryCode": "ZA",
-    "callingCode": "+27",
-    "flag": "https://flagcdn.com/w320/za.png"
+    "flag": "https://flagcdn.com/w320/za.png",
+    "root": "+2",
+    "suffixes": [
+      "7"
+    ]
   },
   {
     "countryCode": "KW",
-    "callingCode": "+965",
-    "flag": "https://flagcdn.com/w320/kw.png"
+    "flag": "https://flagcdn.com/w320/kw.png",
+    "root": "+9",
+    "suffixes": [
+      "65"
+    ]
   },
   {
     "countryCode": "DZ",
-    "callingCode": "+213",
-    "flag": "https://flagcdn.com/w320/dz.png"
+    "flag": "https://flagcdn.com/w320/dz.png",
+    "root": "+2",
+    "suffixes": [
+      "13"
+    ]
   },
   {
     "countryCode": "HR",
-    "callingCode": "+385",
-    "flag": "https://flagcdn.com/w320/hr.png"
+    "flag": "https://flagcdn.com/w320/hr.png",
+    "root": "+3",
+    "suffixes": [
+      "85"
+    ]
   },
   {
     "countryCode": "MQ",
-    "callingCode": "+596",
-    "flag": "https://flagcdn.com/w320/mq.png"
+    "flag": "https://flagcdn.com/w320/mq.png",
+    "root": "+5",
+    "suffixes": [
+      "96"
+    ]
   },
   {
     "countryCode": "SL",
-    "callingCode": "+232",
-    "flag": "https://flagcdn.com/w320/sl.png"
+    "flag": "https://flagcdn.com/w320/sl.png",
+    "root": "+2",
+    "suffixes": [
+      "32"
+    ]
   },
   {
     "countryCode": "MP",
-    "callingCode": "+1670",
-    "flag": "https://flagcdn.com/w320/mp.png"
+    "flag": "https://flagcdn.com/w320/mp.png",
+    "root": "+1",
+    "suffixes": [
+      "670"
+    ]
   },
   {
     "countryCode": "RW",
-    "callingCode": "+250",
-    "flag": "https://flagcdn.com/w320/rw.png"
+    "flag": "https://flagcdn.com/w320/rw.png",
+    "root": "+2",
+    "suffixes": [
+      "50"
+    ]
   },
   {
     "countryCode": "SY",
-    "callingCode": "+963",
-    "flag": "https://flagcdn.com/w320/sy.png"
+    "flag": "https://flagcdn.com/w320/sy.png",
+    "root": "+9",
+    "suffixes": [
+      "63"
+    ]
   },
   {
     "countryCode": "VC",
-    "callingCode": "+1784",
-    "flag": "https://flagcdn.com/w320/vc.png"
+    "flag": "https://flagcdn.com/w320/vc.png",
+    "root": "+1",
+    "suffixes": [
+      "784"
+    ]
   },
   {
     "countryCode": "XK",
-    "callingCode": "+383",
-    "flag": "https://flagcdn.com/w320/xk.png"
+    "flag": "https://flagcdn.com/w320/xk.png",
+    "root": "+3",
+    "suffixes": [
+      "83"
+    ]
   },
   {
     "countryCode": "LC",
-    "callingCode": "+1758",
-    "flag": "https://flagcdn.com/w320/lc.png"
+    "flag": "https://flagcdn.com/w320/lc.png",
+    "root": "+1",
+    "suffixes": [
+      "758"
+    ]
   },
   {
     "countryCode": "HN",
-    "callingCode": "+504",
-    "flag": "https://flagcdn.com/w320/hn.png"
+    "flag": "https://flagcdn.com/w320/hn.png",
+    "root": "+5",
+    "suffixes": [
+      "04"
+    ]
   },
   {
     "countryCode": "JO",
-    "callingCode": "+962",
-    "flag": "https://flagcdn.com/w320/jo.png"
+    "flag": "https://flagcdn.com/w320/jo.png",
+    "root": "+9",
+    "suffixes": [
+      "62"
+    ]
   },
   {
     "countryCode": "TV",
-    "callingCode": "+688",
-    "flag": "https://flagcdn.com/w320/tv.png"
+    "flag": "https://flagcdn.com/w320/tv.png",
+    "root": "+6",
+    "suffixes": [
+      "88"
+    ]
   },
   {
     "countryCode": "NP",
-    "callingCode": "+977",
-    "flag": "https://flagcdn.com/w320/np.png"
+    "flag": "https://flagcdn.com/w320/np.png",
+    "root": "+9",
+    "suffixes": [
+      "77"
+    ]
   },
   {
     "countryCode": "LR",
-    "callingCode": "+231",
-    "flag": "https://flagcdn.com/w320/lr.png"
+    "flag": "https://flagcdn.com/w320/lr.png",
+    "root": "+2",
+    "suffixes": [
+      "31"
+    ]
   },
   {
     "countryCode": "HM",
-    "callingCode": "",
-    "flag": "https://flagcdn.com/w320/hm.png"
+    "flag": "https://flagcdn.com/w320/hm.png",
+    "root": "",
+    "suffixes": []
   },
   {
     "countryCode": "AT",
-    "callingCode": "+43",
-    "flag": "https://flagcdn.com/w320/at.png"
+    "flag": "https://flagcdn.com/w320/at.png",
+    "root": "+4",
+    "suffixes": [
+      "3"
+    ]
   },
   {
     "countryCode": "GG",
-    "callingCode": "+44",
-    "flag": "https://flagcdn.com/w320/gg.png"
+    "flag": "https://flagcdn.com/w320/gg.png",
+    "root": "+4",
+    "suffixes": [
+      "4"
+    ]
   },
   {
     "countryCode": "CF",
-    "callingCode": "+236",
-    "flag": "https://flagcdn.com/w320/cf.png"
+    "flag": "https://flagcdn.com/w320/cf.png",
+    "root": "+2",
+    "suffixes": [
+      "36"
+    ]
   },
   {
     "countryCode": "MR",
-    "callingCode": "+222",
-    "flag": "https://flagcdn.com/w320/mr.png"
+    "flag": "https://flagcdn.com/w320/mr.png",
+    "root": "+2",
+    "suffixes": [
+      "22"
+    ]
   },
   {
     "countryCode": "DJ",
-    "callingCode": "+253",
-    "flag": "https://flagcdn.com/w320/dj.png"
+    "flag": "https://flagcdn.com/w320/dj.png",
+    "root": "+2",
+    "suffixes": [
+      "53"
+    ]
   },
   {
     "countryCode": "FJ",
-    "callingCode": "+679",
-    "flag": "https://flagcdn.com/w320/fj.png"
+    "flag": "https://flagcdn.com/w320/fj.png",
+    "root": "+6",
+    "suffixes": [
+      "79"
+    ]
   },
   {
     "countryCode": "NO",
-    "callingCode": "+47",
-    "flag": "https://flagcdn.com/w320/no.png"
+    "flag": "https://flagcdn.com/w320/no.png",
+    "root": "+4",
+    "suffixes": [
+      "7"
+    ]
   },
   {
     "countryCode": "LV",
-    "callingCode": "+371",
-    "flag": "https://flagcdn.com/w320/lv.png"
+    "flag": "https://flagcdn.com/w320/lv.png",
+    "root": "+3",
+    "suffixes": [
+      "71"
+    ]
   },
   {
     "countryCode": "FK",
-    "callingCode": "+500",
-    "flag": "https://flagcdn.com/w320/fk.png"
+    "flag": "https://flagcdn.com/w320/fk.png",
+    "root": "+5",
+    "suffixes": [
+      "00"
+    ]
   },
   {
     "countryCode": "KZ",
-    "callingCode": "+76",
-    "flag": "https://flagcdn.com/w320/kz.png"
-  },
-  {
-    "countryCode": "KZ",
-    "callingCode": "+77",
-    "flag": "https://flagcdn.com/w320/kz.png"
+    "flag": "https://flagcdn.com/w320/kz.png",
+    "root": "+7",
+    "suffixes": [
+      "6",
+      "7"
+    ]
   },
   {
     "countryCode": "AX",
-    "callingCode": "+35818",
-    "flag": "https://flagcdn.com/w320/ax.png"
+    "flag": "https://flagcdn.com/w320/ax.png",
+    "root": "+3",
+    "suffixes": [
+      "5818"
+    ]
   },
   {
     "countryCode": "TM",
-    "callingCode": "+993",
-    "flag": "https://flagcdn.com/w320/tm.png"
+    "flag": "https://flagcdn.com/w320/tm.png",
+    "root": "+9",
+    "suffixes": [
+      "93"
+    ]
   },
   {
     "countryCode": "CC",
-    "callingCode": "+61",
-    "flag": "https://flagcdn.com/w320/cc.png"
+    "flag": "https://flagcdn.com/w320/cc.png",
+    "root": "+6",
+    "suffixes": [
+      "1"
+    ]
   },
   {
     "countryCode": "BG",
-    "callingCode": "+359",
-    "flag": "https://flagcdn.com/w320/bg.png"
+    "flag": "https://flagcdn.com/w320/bg.png",
+    "root": "+3",
+    "suffixes": [
+      "59"
+    ]
   },
   {
     "countryCode": "TK",
-    "callingCode": "+690",
-    "flag": "https://flagcdn.com/w320/tk.png"
+    "flag": "https://flagcdn.com/w320/tk.png",
+    "root": "+6",
+    "suffixes": [
+      "90"
+    ]
   },
   {
     "countryCode": "NC",
-    "callingCode": "+687",
-    "flag": "https://flagcdn.com/w320/nc.png"
+    "flag": "https://flagcdn.com/w320/nc.png",
+    "root": "+6",
+    "suffixes": [
+      "87"
+    ]
   },
   {
     "countryCode": "BB",
-    "callingCode": "+1246",
-    "flag": "https://flagcdn.com/w320/bb.png"
+    "flag": "https://flagcdn.com/w320/bb.png",
+    "root": "+1",
+    "suffixes": [
+      "246"
+    ]
   },
   {
     "countryCode": "ST",
-    "callingCode": "+239",
-    "flag": "https://flagcdn.com/w320/st.png"
+    "flag": "https://flagcdn.com/w320/st.png",
+    "root": "+2",
+    "suffixes": [
+      "39"
+    ]
   },
   {
     "countryCode": "AQ",
-    "callingCode": "",
-    "flag": "https://flagcdn.com/w320/aq.png"
+    "flag": "https://flagcdn.com/w320/aq.png",
+    "root": "",
+    "suffixes": []
   },
   {
     "countryCode": "BN",
-    "callingCode": "+673",
-    "flag": "https://flagcdn.com/w320/bn.png"
+    "flag": "https://flagcdn.com/w320/bn.png",
+    "root": "+6",
+    "suffixes": [
+      "73"
+    ]
   },
   {
     "countryCode": "BT",
-    "callingCode": "+975",
-    "flag": "https://flagcdn.com/w320/bt.png"
+    "flag": "https://flagcdn.com/w320/bt.png",
+    "root": "+9",
+    "suffixes": [
+      "75"
+    ]
   },
   {
     "countryCode": "CM",
-    "callingCode": "+237",
-    "flag": "https://flagcdn.com/w320/cm.png"
+    "flag": "https://flagcdn.com/w320/cm.png",
+    "root": "+2",
+    "suffixes": [
+      "37"
+    ]
   },
   {
     "countryCode": "AR",
-    "callingCode": "+54",
-    "flag": "https://flagcdn.com/w320/ar.png"
+    "flag": "https://flagcdn.com/w320/ar.png",
+    "root": "+5",
+    "suffixes": [
+      "4"
+    ]
   },
   {
     "countryCode": "AZ",
-    "callingCode": "+994",
-    "flag": "https://flagcdn.com/w320/az.png"
+    "flag": "https://flagcdn.com/w320/az.png",
+    "root": "+9",
+    "suffixes": [
+      "94"
+    ]
   },
   {
     "countryCode": "MX",
-    "callingCode": "+52",
-    "flag": "https://flagcdn.com/w320/mx.png"
+    "flag": "https://flagcdn.com/w320/mx.png",
+    "root": "+5",
+    "suffixes": [
+      "2"
+    ]
   },
   {
     "countryCode": "MA",
-    "callingCode": "+212",
-    "flag": "https://flagcdn.com/w320/ma.png"
+    "flag": "https://flagcdn.com/w320/ma.png",
+    "root": "+2",
+    "suffixes": [
+      "12"
+    ]
   },
   {
     "countryCode": "GT",
-    "callingCode": "+502",
-    "flag": "https://flagcdn.com/w320/gt.png"
+    "flag": "https://flagcdn.com/w320/gt.png",
+    "root": "+5",
+    "suffixes": [
+      "02"
+    ]
   },
   {
     "countryCode": "KE",
-    "callingCode": "+254",
-    "flag": "https://flagcdn.com/w320/ke.png"
+    "flag": "https://flagcdn.com/w320/ke.png",
+    "root": "+2",
+    "suffixes": [
+      "54"
+    ]
   },
   {
     "countryCode": "MT",
-    "callingCode": "+356",
-    "flag": "https://flagcdn.com/w320/mt.png"
+    "flag": "https://flagcdn.com/w320/mt.png",
+    "root": "+3",
+    "suffixes": [
+      "56"
+    ]
   },
   {
     "countryCode": "CZ",
-    "callingCode": "+420",
-    "flag": "https://flagcdn.com/w320/cz.png"
+    "flag": "https://flagcdn.com/w320/cz.png",
+    "root": "+4",
+    "suffixes": [
+      "20"
+    ]
   },
   {
     "countryCode": "GI",
-    "callingCode": "+350",
-    "flag": "https://flagcdn.com/w320/gi.png"
+    "flag": "https://flagcdn.com/w320/gi.png",
+    "root": "+3",
+    "suffixes": [
+      "50"
+    ]
   },
   {
     "countryCode": "AW",
-    "callingCode": "+297",
-    "flag": "https://flagcdn.com/w320/aw.png"
+    "flag": "https://flagcdn.com/w320/aw.png",
+    "root": "+2",
+    "suffixes": [
+      "97"
+    ]
   },
   {
     "countryCode": "BL",
-    "callingCode": "+590",
-    "flag": "https://flagcdn.com/w320/bl.png"
+    "flag": "https://flagcdn.com/w320/bl.png",
+    "root": "+5",
+    "suffixes": [
+      "90"
+    ]
   },
   {
     "countryCode": "MC",
-    "callingCode": "+377",
-    "flag": "https://flagcdn.com/w320/mc.png"
+    "flag": "https://flagcdn.com/w320/mc.png",
+    "root": "+3",
+    "suffixes": [
+      "77"
+    ]
   },
   {
     "countryCode": "AE",
-    "callingCode": "+971",
-    "flag": "https://flagcdn.com/w320/ae.png"
+    "flag": "https://flagcdn.com/w320/ae.png",
+    "root": "+9",
+    "suffixes": [
+      "71"
+    ]
   },
   {
     "countryCode": "SS",
-    "callingCode": "+211",
-    "flag": "https://flagcdn.com/w320/ss.png"
+    "flag": "https://flagcdn.com/w320/ss.png",
+    "root": "+2",
+    "suffixes": [
+      "11"
+    ]
   },
   {
     "countryCode": "PR",
-    "callingCode": "+1787",
-    "flag": "https://flagcdn.com/w320/pr.png"
-  },
-  {
-    "countryCode": "PR",
-    "callingCode": "+1939",
-    "flag": "https://flagcdn.com/w320/pr.png"
+    "flag": "https://flagcdn.com/w320/pr.png",
+    "root": "+1",
+    "suffixes": [
+      "787",
+      "939"
+    ]
   },
   {
     "countryCode": "SV",
-    "callingCode": "+503",
-    "flag": "https://flagcdn.com/w320/sv.png"
+    "flag": "https://flagcdn.com/w320/sv.png",
+    "root": "+5",
+    "suffixes": [
+      "03"
+    ]
   },
   {
     "countryCode": "FR",
-    "callingCode": "+33",
-    "flag": "https://flagcdn.com/w320/fr.png"
+    "flag": "https://flagcdn.com/w320/fr.png",
+    "root": "+3",
+    "suffixes": [
+      "3"
+    ]
   },
   {
     "countryCode": "NE",
-    "callingCode": "+227",
-    "flag": "https://flagcdn.com/w320/ne.png"
+    "flag": "https://flagcdn.com/w320/ne.png",
+    "root": "+2",
+    "suffixes": [
+      "27"
+    ]
   },
   {
     "countryCode": "CI",
-    "callingCode": "+225",
-    "flag": "https://flagcdn.com/w320/ci.png"
+    "flag": "https://flagcdn.com/w320/ci.png",
+    "root": "+2",
+    "suffixes": [
+      "25"
+    ]
   },
   {
     "countryCode": "GS",
-    "callingCode": "+500",
-    "flag": "https://flagcdn.com/w320/gs.png"
+    "flag": "https://flagcdn.com/w320/gs.png",
+    "root": "+5",
+    "suffixes": [
+      "00"
+    ]
   },
   {
     "countryCode": "BW",
-    "callingCode": "+267",
-    "flag": "https://flagcdn.com/w320/bw.png"
+    "flag": "https://flagcdn.com/w320/bw.png",
+    "root": "+2",
+    "suffixes": [
+      "67"
+    ]
   },
   {
     "countryCode": "IO",
-    "callingCode": "+246",
-    "flag": "https://flagcdn.com/w320/io.png"
+    "flag": "https://flagcdn.com/w320/io.png",
+    "root": "+2",
+    "suffixes": [
+      "46"
+    ]
   },
   {
     "countryCode": "UZ",
-    "callingCode": "+998",
-    "flag": "https://flagcdn.com/w320/uz.png"
+    "flag": "https://flagcdn.com/w320/uz.png",
+    "root": "+9",
+    "suffixes": [
+      "98"
+    ]
   },
   {
     "countryCode": "TN",
-    "callingCode": "+216",
-    "flag": "https://flagcdn.com/w320/tn.png"
+    "flag": "https://flagcdn.com/w320/tn.png",
+    "root": "+2",
+    "suffixes": [
+      "16"
+    ]
   },
   {
     "countryCode": "HK",
-    "callingCode": "+852",
-    "flag": "https://flagcdn.com/w320/hk.png"
+    "flag": "https://flagcdn.com/w320/hk.png",
+    "root": "+8",
+    "suffixes": [
+      "52"
+    ]
   },
   {
     "countryCode": "MK",
-    "callingCode": "+389",
-    "flag": "https://flagcdn.com/w320/mk.png"
+    "flag": "https://flagcdn.com/w320/mk.png",
+    "root": "+3",
+    "suffixes": [
+      "89"
+    ]
   },
   {
     "countryCode": "SR",
-    "callingCode": "+597",
-    "flag": "https://flagcdn.com/w320/sr.png"
+    "flag": "https://flagcdn.com/w320/sr.png",
+    "root": "+5",
+    "suffixes": [
+      "97"
+    ]
   },
   {
     "countryCode": "BE",
-    "callingCode": "+32",
-    "flag": "https://flagcdn.com/w320/be.png"
+    "flag": "https://flagcdn.com/w320/be.png",
+    "root": "+3",
+    "suffixes": [
+      "2"
+    ]
   },
   {
     "countryCode": "AS",
-    "callingCode": "+1684",
-    "flag": "https://flagcdn.com/w320/as.png"
+    "flag": "https://flagcdn.com/w320/as.png",
+    "root": "+1",
+    "suffixes": [
+      "684"
+    ]
   },
   {
     "countryCode": "SB",
-    "callingCode": "+677",
-    "flag": "https://flagcdn.com/w320/sb.png"
+    "flag": "https://flagcdn.com/w320/sb.png",
+    "root": "+6",
+    "suffixes": [
+      "77"
+    ]
   },
   {
     "countryCode": "UA",
-    "callingCode": "+380",
-    "flag": "https://flagcdn.com/w320/ua.png"
+    "flag": "https://flagcdn.com/w320/ua.png",
+    "root": "+3",
+    "suffixes": [
+      "80"
+    ]
   },
   {
     "countryCode": "FI",
-    "callingCode": "+358",
-    "flag": "https://flagcdn.com/w320/fi.png"
+    "flag": "https://flagcdn.com/w320/fi.png",
+    "root": "+3",
+    "suffixes": [
+      "58"
+    ]
   },
   {
     "countryCode": "BF",
-    "callingCode": "+226",
-    "flag": "https://flagcdn.com/w320/bf.png"
+    "flag": "https://flagcdn.com/w320/bf.png",
+    "root": "+2",
+    "suffixes": [
+      "26"
+    ]
   },
   {
     "countryCode": "BA",
-    "callingCode": "+387",
-    "flag": "https://flagcdn.com/w320/ba.png"
+    "flag": "https://flagcdn.com/w320/ba.png",
+    "root": "+3",
+    "suffixes": [
+      "87"
+    ]
   },
   {
     "countryCode": "IR",
-    "callingCode": "+98",
-    "flag": "https://flagcdn.com/w320/ir.png"
+    "flag": "https://flagcdn.com/w320/ir.png",
+    "root": "+9",
+    "suffixes": [
+      "8"
+    ]
   },
   {
     "countryCode": "CU",
-    "callingCode": "+53",
-    "flag": "https://flagcdn.com/w320/cu.png"
+    "flag": "https://flagcdn.com/w320/cu.png",
+    "root": "+5",
+    "suffixes": [
+      "3"
+    ]
   },
   {
     "countryCode": "ER",
-    "callingCode": "+291",
-    "flag": "https://flagcdn.com/w320/er.png"
+    "flag": "https://flagcdn.com/w320/er.png",
+    "root": "+2",
+    "suffixes": [
+      "91"
+    ]
   },
   {
     "countryCode": "SK",
-    "callingCode": "+421",
-    "flag": "https://flagcdn.com/w320/sk.png"
+    "flag": "https://flagcdn.com/w320/sk.png",
+    "root": "+4",
+    "suffixes": [
+      "21"
+    ]
   },
   {
     "countryCode": "LT",
-    "callingCode": "+370",
-    "flag": "https://flagcdn.com/w320/lt.png"
+    "flag": "https://flagcdn.com/w320/lt.png",
+    "root": "+3",
+    "suffixes": [
+      "70"
+    ]
   },
   {
     "countryCode": "MF",
-    "callingCode": "+590",
-    "flag": "https://flagcdn.com/w320/mf.png"
+    "flag": "https://flagcdn.com/w320/mf.png",
+    "root": "+5",
+    "suffixes": [
+      "90"
+    ]
   },
   {
     "countryCode": "PN",
-    "callingCode": "+64",
-    "flag": "https://flagcdn.com/w320/pn.png"
+    "flag": "https://flagcdn.com/w320/pn.png",
+    "root": "+6",
+    "suffixes": [
+      "4"
+    ]
   },
   {
     "countryCode": "GW",
-    "callingCode": "+245",
-    "flag": "https://flagcdn.com/w320/gw.png"
+    "flag": "https://flagcdn.com/w320/gw.png",
+    "root": "+2",
+    "suffixes": [
+      "45"
+    ]
   },
   {
     "countryCode": "MS",
-    "callingCode": "+1664",
-    "flag": "https://flagcdn.com/w320/ms.png"
+    "flag": "https://flagcdn.com/w320/ms.png",
+    "root": "+1",
+    "suffixes": [
+      "664"
+    ]
   },
   {
     "countryCode": "TR",
-    "callingCode": "+90",
-    "flag": "https://flagcdn.com/w320/tr.png"
+    "flag": "https://flagcdn.com/w320/tr.png",
+    "root": "+9",
+    "suffixes": [
+      "0"
+    ]
   },
   {
     "countryCode": "PH",
-    "callingCode": "+63",
-    "flag": "https://flagcdn.com/w320/ph.png"
+    "flag": "https://flagcdn.com/w320/ph.png",
+    "root": "+6",
+    "suffixes": [
+      "3"
+    ]
   },
   {
     "countryCode": "VU",
-    "callingCode": "+678",
-    "flag": "https://flagcdn.com/w320/vu.png"
+    "flag": "https://flagcdn.com/w320/vu.png",
+    "root": "+6",
+    "suffixes": [
+      "78"
+    ]
   },
   {
     "countryCode": "BO",
-    "callingCode": "+591",
-    "flag": "https://flagcdn.com/w320/bo.png"
+    "flag": "https://flagcdn.com/w320/bo.png",
+    "root": "+5",
+    "suffixes": [
+      "91"
+    ]
   },
   {
     "countryCode": "KN",
-    "callingCode": "+1869",
-    "flag": "https://flagcdn.com/w320/kn.png"
+    "flag": "https://flagcdn.com/w320/kn.png",
+    "root": "+1",
+    "suffixes": [
+      "869"
+    ]
   },
   {
     "countryCode": "RO",
-    "callingCode": "+40",
-    "flag": "https://flagcdn.com/w320/ro.png"
+    "flag": "https://flagcdn.com/w320/ro.png",
+    "root": "+4",
+    "suffixes": [
+      "0"
+    ]
   },
   {
     "countryCode": "KH",
-    "callingCode": "+855",
-    "flag": "https://flagcdn.com/w320/kh.png"
+    "flag": "https://flagcdn.com/w320/kh.png",
+    "root": "+8",
+    "suffixes": [
+      "55"
+    ]
   },
   {
     "countryCode": "ZW",
-    "callingCode": "+263",
-    "flag": "https://flagcdn.com/w320/zw.png"
+    "flag": "https://flagcdn.com/w320/zw.png",
+    "root": "+2",
+    "suffixes": [
+      "63"
+    ]
   },
   {
     "countryCode": "JE",
-    "callingCode": "+44",
-    "flag": "https://flagcdn.com/w320/je.png"
+    "flag": "https://flagcdn.com/w320/je.png",
+    "root": "+4",
+    "suffixes": [
+      "4"
+    ]
   },
   {
     "countryCode": "KG",
-    "callingCode": "+996",
-    "flag": "https://flagcdn.com/w320/kg.png"
+    "flag": "https://flagcdn.com/w320/kg.png",
+    "root": "+9",
+    "suffixes": [
+      "96"
+    ]
   },
   {
     "countryCode": "BQ",
-    "callingCode": "+599",
-    "flag": "https://flagcdn.com/w320/bq.png"
+    "flag": "https://flagcdn.com/w320/bq.png",
+    "root": "+5",
+    "suffixes": [
+      "99"
+    ]
   },
   {
     "countryCode": "GY",
-    "callingCode": "+592",
-    "flag": "https://flagcdn.com/w320/gy.png"
+    "flag": "https://flagcdn.com/w320/gy.png",
+    "root": "+5",
+    "suffixes": [
+      "92"
+    ]
   },
   {
     "countryCode": "UM",
-    "callingCode": "+268",
-    "flag": "https://flagcdn.com/w320/um.png"
+    "flag": "https://flagcdn.com/w320/um.png",
+    "root": "+2",
+    "suffixes": [
+      "68"
+    ]
   },
   {
     "countryCode": "AM",
-    "callingCode": "+374",
-    "flag": "https://flagcdn.com/w320/am.png"
+    "flag": "https://flagcdn.com/w320/am.png",
+    "root": "+3",
+    "suffixes": [
+      "74"
+    ]
   },
   {
     "countryCode": "LB",
-    "callingCode": "+961",
-    "flag": "https://flagcdn.com/w320/lb.png"
+    "flag": "https://flagcdn.com/w320/lb.png",
+    "root": "+9",
+    "suffixes": [
+      "61"
+    ]
   },
   {
     "countryCode": "ME",
-    "callingCode": "+382",
-    "flag": "https://flagcdn.com/w320/me.png"
+    "flag": "https://flagcdn.com/w320/me.png",
+    "root": "+3",
+    "suffixes": [
+      "82"
+    ]
   },
   {
     "countryCode": "GL",
-    "callingCode": "+299",
-    "flag": "https://flagcdn.com/w320/gl.png"
+    "flag": "https://flagcdn.com/w320/gl.png",
+    "root": "+2",
+    "suffixes": [
+      "99"
+    ]
   },
   {
     "countryCode": "PG",
-    "callingCode": "+675",
-    "flag": "https://flagcdn.com/w320/pg.png"
+    "flag": "https://flagcdn.com/w320/pg.png",
+    "root": "+6",
+    "suffixes": [
+      "75"
+    ]
   },
   {
     "countryCode": "ZM",
-    "callingCode": "+260",
-    "flag": "https://flagcdn.com/w320/zm.png"
+    "flag": "https://flagcdn.com/w320/zm.png",
+    "root": "+2",
+    "suffixes": [
+      "60"
+    ]
   },
   {
     "countryCode": "TT",
-    "callingCode": "+1868",
-    "flag": "https://flagcdn.com/w320/tt.png"
+    "flag": "https://flagcdn.com/w320/tt.png",
+    "root": "+1",
+    "suffixes": [
+      "868"
+    ]
   },
   {
     "countryCode": "TF",
-    "callingCode": "+262",
-    "flag": "https://flagcdn.com/w320/tf.png"
+    "flag": "https://flagcdn.com/w320/tf.png",
+    "root": "+2",
+    "suffixes": [
+      "62"
+    ]
   },
   {
     "countryCode": "PE",
-    "callingCode": "+51",
-    "flag": "https://flagcdn.com/w320/pe.png"
+    "flag": "https://flagcdn.com/w320/pe.png",
+    "root": "+5",
+    "suffixes": [
+      "1"
+    ]
   },
   {
     "countryCode": "SE",
-    "callingCode": "+46",
-    "flag": "https://flagcdn.com/w320/se.png"
+    "flag": "https://flagcdn.com/w320/se.png",
+    "root": "+4",
+    "suffixes": [
+      "6"
+    ]
   },
   {
     "countryCode": "SD",
-    "callingCode": "+249",
-    "flag": "https://flagcdn.com/w320/sd.png"
+    "flag": "https://flagcdn.com/w320/sd.png",
+    "root": "+2",
+    "suffixes": [
+      "49"
+    ]
   },
   {
     "countryCode": "PM",
-    "callingCode": "+508",
-    "flag": "https://flagcdn.com/w320/pm.png"
+    "flag": "https://flagcdn.com/w320/pm.png",
+    "root": "+5",
+    "suffixes": [
+      "08"
+    ]
   },
   {
     "countryCode": "OM",
-    "callingCode": "+968",
-    "flag": "https://flagcdn.com/w320/om.png"
+    "flag": "https://flagcdn.com/w320/om.png",
+    "root": "+9",
+    "suffixes": [
+      "68"
+    ]
   },
   {
     "countryCode": "IN",
-    "callingCode": "+91",
-    "flag": "https://flagcdn.com/w320/in.png"
+    "flag": "https://flagcdn.com/w320/in.png",
+    "root": "+9",
+    "suffixes": [
+      "1"
+    ]
   },
   {
     "countryCode": "TW",
-    "callingCode": "+886",
-    "flag": "https://flagcdn.com/w320/tw.png"
+    "flag": "https://flagcdn.com/w320/tw.png",
+    "root": "+8",
+    "suffixes": [
+      "86"
+    ]
   },
   {
     "countryCode": "MN",
-    "callingCode": "+976",
-    "flag": "https://flagcdn.com/w320/mn.png"
+    "flag": "https://flagcdn.com/w320/mn.png",
+    "root": "+9",
+    "suffixes": [
+      "76"
+    ]
   },
   {
     "countryCode": "SN",
-    "callingCode": "+221",
-    "flag": "https://flagcdn.com/w320/sn.png"
+    "flag": "https://flagcdn.com/w320/sn.png",
+    "root": "+2",
+    "suffixes": [
+      "21"
+    ]
   },
   {
     "countryCode": "TZ",
-    "callingCode": "+255",
-    "flag": "https://flagcdn.com/w320/tz.png"
+    "flag": "https://flagcdn.com/w320/tz.png",
+    "root": "+2",
+    "suffixes": [
+      "55"
+    ]
   },
   {
     "countryCode": "CA",
-    "callingCode": "+1",
-    "flag": "https://flagcdn.com/w320/ca.png"
+    "flag": "https://flagcdn.com/w320/ca.png",
+    "root": "+1",
+    "suffixes": [
+      ""
+    ]
   },
   {
     "countryCode": "CR",
-    "callingCode": "+506",
-    "flag": "https://flagcdn.com/w320/cr.png"
+    "flag": "https://flagcdn.com/w320/cr.png",
+    "root": "+5",
+    "suffixes": [
+      "06"
+    ]
   },
   {
     "countryCode": "CN",
-    "callingCode": "+86",
-    "flag": "https://flagcdn.com/w320/cn.png"
+    "flag": "https://flagcdn.com/w320/cn.png",
+    "root": "+8",
+    "suffixes": [
+      "6"
+    ]
   },
   {
     "countryCode": "CO",
-    "callingCode": "+57",
-    "flag": "https://flagcdn.com/w320/co.png"
+    "flag": "https://flagcdn.com/w320/co.png",
+    "root": "+5",
+    "suffixes": [
+      "7"
+    ]
   },
   {
     "countryCode": "MM",
-    "callingCode": "+95",
-    "flag": "https://flagcdn.com/w320/mm.png"
+    "flag": "https://flagcdn.com/w320/mm.png",
+    "root": "+9",
+    "suffixes": [
+      "5"
+    ]
   },
   {
     "countryCode": "RU",
-    "callingCode": "+73",
-    "flag": "https://flagcdn.com/w320/ru.png"
-  },
-  {
-    "countryCode": "RU",
-    "callingCode": "+74",
-    "flag": "https://flagcdn.com/w320/ru.png"
-  },
-  {
-    "countryCode": "RU",
-    "callingCode": "+75",
-    "flag": "https://flagcdn.com/w320/ru.png"
-  },
-  {
-    "countryCode": "RU",
-    "callingCode": "+78",
-    "flag": "https://flagcdn.com/w320/ru.png"
-  },
-  {
-    "countryCode": "RU",
-    "callingCode": "+79",
-    "flag": "https://flagcdn.com/w320/ru.png"
+    "flag": "https://flagcdn.com/w320/ru.png",
+    "root": "+7",
+    "suffixes": [
+      "3",
+      "4",
+      "5",
+      "8",
+      "9"
+    ]
   },
   {
     "countryCode": "KP",
-    "callingCode": "+850",
-    "flag": "https://flagcdn.com/w320/kp.png"
+    "flag": "https://flagcdn.com/w320/kp.png",
+    "root": "+8",
+    "suffixes": [
+      "50"
+    ]
   },
   {
     "countryCode": "KY",
-    "callingCode": "+1345",
-    "flag": "https://flagcdn.com/w320/ky.png"
+    "flag": "https://flagcdn.com/w320/ky.png",
+    "root": "+1",
+    "suffixes": [
+      "345"
+    ]
   },
   {
     "countryCode": "BV",
-    "callingCode": "+47",
-    "flag": "https://flagcdn.com/w320/bv.png"
+    "flag": "https://flagcdn.com/w320/bv.png",
+    "root": "+4",
+    "suffixes": [
+      "7"
+    ]
   },
   {
     "countryCode": "BY",
-    "callingCode": "+375",
-    "flag": "https://flagcdn.com/w320/by.png"
+    "flag": "https://flagcdn.com/w320/by.png",
+    "root": "+3",
+    "suffixes": [
+      "75"
+    ]
   },
   {
     "countryCode": "PT",
-    "callingCode": "+351",
-    "flag": "https://flagcdn.com/w320/pt.png"
+    "flag": "https://flagcdn.com/w320/pt.png",
+    "root": "+3",
+    "suffixes": [
+      "51"
+    ]
   },
   {
     "countryCode": "SZ",
-    "callingCode": "+268",
-    "flag": "https://flagcdn.com/w320/sz.png"
+    "flag": "https://flagcdn.com/w320/sz.png",
+    "root": "+2",
+    "suffixes": [
+      "68"
+    ]
   },
   {
     "countryCode": "PL",
-    "callingCode": "+48",
-    "flag": "https://flagcdn.com/w320/pl.png"
+    "flag": "https://flagcdn.com/w320/pl.png",
+    "root": "+4",
+    "suffixes": [
+      "8"
+    ]
   },
   {
     "countryCode": "CH",
-    "callingCode": "+41",
-    "flag": "https://flagcdn.com/w320/ch.png"
+    "flag": "https://flagcdn.com/w320/ch.png",
+    "root": "+4",
+    "suffixes": [
+      "1"
+    ]
   },
   {
     "countryCode": "CG",
-    "callingCode": "+242",
-    "flag": "https://flagcdn.com/w320/cg.png"
+    "flag": "https://flagcdn.com/w320/cg.png",
+    "root": "+2",
+    "suffixes": [
+      "42"
+    ]
   },
   {
     "countryCode": "VE",
-    "callingCode": "+58",
-    "flag": "https://flagcdn.com/w320/ve.png"
+    "flag": "https://flagcdn.com/w320/ve.png",
+    "root": "+5",
+    "suffixes": [
+      "8"
+    ]
   },
   {
     "countryCode": "PA",
-    "callingCode": "+507",
-    "flag": "https://flagcdn.com/w320/pa.png"
+    "flag": "https://flagcdn.com/w320/pa.png",
+    "root": "+5",
+    "suffixes": [
+      "07"
+    ]
   },
   {
     "countryCode": "NL",
-    "callingCode": "+31",
-    "flag": "https://flagcdn.com/w320/nl.png"
+    "flag": "https://flagcdn.com/w320/nl.png",
+    "root": "+3",
+    "suffixes": [
+      "1"
+    ]
   },
   {
     "countryCode": "WS",
-    "callingCode": "+685",
-    "flag": "https://flagcdn.com/w320/ws.png"
+    "flag": "https://flagcdn.com/w320/ws.png",
+    "root": "+6",
+    "suffixes": [
+      "85"
+    ]
   },
   {
     "countryCode": "DK",
-    "callingCode": "+45",
-    "flag": "https://flagcdn.com/w320/dk.png"
+    "flag": "https://flagcdn.com/w320/dk.png",
+    "root": "+4",
+    "suffixes": [
+      "5"
+    ]
   },
   {
     "countryCode": "LU",
-    "callingCode": "+352",
-    "flag": "https://flagcdn.com/w320/lu.png"
+    "flag": "https://flagcdn.com/w320/lu.png",
+    "root": "+3",
+    "suffixes": [
+      "52"
+    ]
   },
   {
     "countryCode": "FO",
-    "callingCode": "+298",
-    "flag": "https://flagcdn.com/w320/fo.png"
+    "flag": "https://flagcdn.com/w320/fo.png",
+    "root": "+2",
+    "suffixes": [
+      "98"
+    ]
   },
   {
     "countryCode": "SI",
-    "callingCode": "+386",
-    "flag": "https://flagcdn.com/w320/si.png"
+    "flag": "https://flagcdn.com/w320/si.png",
+    "root": "+3",
+    "suffixes": [
+      "86"
+    ]
   },
   {
     "countryCode": "TG",
-    "callingCode": "+228",
-    "flag": "https://flagcdn.com/w320/tg.png"
+    "flag": "https://flagcdn.com/w320/tg.png",
+    "root": "+2",
+    "suffixes": [
+      "28"
+    ]
   },
   {
     "countryCode": "TH",
-    "callingCode": "+66",
-    "flag": "https://flagcdn.com/w320/th.png"
+    "flag": "https://flagcdn.com/w320/th.png",
+    "root": "+6",
+    "suffixes": [
+      "6"
+    ]
   },
   {
     "countryCode": "WF",
-    "callingCode": "+681",
-    "flag": "https://flagcdn.com/w320/wf.png"
+    "flag": "https://flagcdn.com/w320/wf.png",
+    "root": "+6",
+    "suffixes": [
+      "81"
+    ]
   },
   {
     "countryCode": "BS",
-    "callingCode": "+1242",
-    "flag": "https://flagcdn.com/w320/bs.png"
+    "flag": "https://flagcdn.com/w320/bs.png",
+    "root": "+1",
+    "suffixes": [
+      "242"
+    ]
   },
   {
     "countryCode": "TO",
-    "callingCode": "+676",
-    "flag": "https://flagcdn.com/w320/to.png"
+    "flag": "https://flagcdn.com/w320/to.png",
+    "root": "+6",
+    "suffixes": [
+      "76"
+    ]
   },
   {
     "countryCode": "GR",
-    "callingCode": "+30",
-    "flag": "https://flagcdn.com/w320/gr.png"
+    "flag": "https://flagcdn.com/w320/gr.png",
+    "root": "+3",
+    "suffixes": [
+      "0"
+    ]
   },
   {
     "countryCode": "SM",
-    "callingCode": "+378",
-    "flag": "https://flagcdn.com/w320/sm.png"
+    "flag": "https://flagcdn.com/w320/sm.png",
+    "root": "+3",
+    "suffixes": [
+      "78"
+    ]
   },
   {
     "countryCode": "RE",
-    "callingCode": "+262",
-    "flag": "https://flagcdn.com/w320/re.png"
+    "flag": "https://flagcdn.com/w320/re.png",
+    "root": "+2",
+    "suffixes": [
+      "62"
+    ]
   },
   {
     "countryCode": "VA",
-    "callingCode": "+3906698",
-    "flag": "https://flagcdn.com/w320/va.png"
-  },
-  {
-    "countryCode": "VA",
-    "callingCode": "+379",
-    "flag": "https://flagcdn.com/w320/va.png"
+    "flag": "https://flagcdn.com/w320/va.png",
+    "root": "+3",
+    "suffixes": [
+      "906698",
+      "79"
+    ]
   },
   {
     "countryCode": "BI",
-    "callingCode": "+257",
-    "flag": "https://flagcdn.com/w320/bi.png"
+    "flag": "https://flagcdn.com/w320/bi.png",
+    "root": "+2",
+    "suffixes": [
+      "57"
+    ]
   },
   {
     "countryCode": "BH",
-    "callingCode": "+973",
-    "flag": "https://flagcdn.com/w320/bh.png"
+    "flag": "https://flagcdn.com/w320/bh.png",
+    "root": "+9",
+    "suffixes": [
+      "73"
+    ]
   },
   {
     "countryCode": "MH",
-    "callingCode": "+692",
-    "flag": "https://flagcdn.com/w320/mh.png"
+    "flag": "https://flagcdn.com/w320/mh.png",
+    "root": "+6",
+    "suffixes": [
+      "92"
+    ]
   },
   {
     "countryCode": "TC",
-    "callingCode": "+1649",
-    "flag": "https://flagcdn.com/w320/tc.png"
+    "flag": "https://flagcdn.com/w320/tc.png",
+    "root": "+1",
+    "suffixes": [
+      "649"
+    ]
   },
   {
     "countryCode": "IM",
-    "callingCode": "+44",
-    "flag": "https://flagcdn.com/w320/im.png"
+    "flag": "https://flagcdn.com/w320/im.png",
+    "root": "+4",
+    "suffixes": [
+      "4"
+    ]
   },
   {
     "countryCode": "HT",
-    "callingCode": "+509",
-    "flag": "https://flagcdn.com/w320/ht.png"
+    "flag": "https://flagcdn.com/w320/ht.png",
+    "root": "+5",
+    "suffixes": [
+      "09"
+    ]
   },
   {
     "countryCode": "AF",
-    "callingCode": "+93",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
+    "root": "+9",
+    "suffixes": [
+      "3"
+    ]
   },
   {
     "countryCode": "IL",
-    "callingCode": "+972",
-    "flag": "https://flagcdn.com/w320/il.png"
+    "flag": "https://flagcdn.com/w320/il.png",
+    "root": "+9",
+    "suffixes": [
+      "72"
+    ]
   },
   {
     "countryCode": "LY",
-    "callingCode": "+218",
-    "flag": "https://flagcdn.com/w320/ly.png"
+    "flag": "https://flagcdn.com/w320/ly.png",
+    "root": "+2",
+    "suffixes": [
+      "18"
+    ]
   },
   {
     "countryCode": "UY",
-    "callingCode": "+598",
-    "flag": "https://flagcdn.com/w320/uy.png"
+    "flag": "https://flagcdn.com/w320/uy.png",
+    "root": "+5",
+    "suffixes": [
+      "98"
+    ]
   },
   {
     "countryCode": "NF",
-    "callingCode": "+672",
-    "flag": "https://flagcdn.com/w320/nf.png"
+    "flag": "https://flagcdn.com/w320/nf.png",
+    "root": "+6",
+    "suffixes": [
+      "72"
+    ]
   },
   {
     "countryCode": "NI",
-    "callingCode": "+505",
-    "flag": "https://flagcdn.com/w320/ni.png"
+    "flag": "https://flagcdn.com/w320/ni.png",
+    "root": "+5",
+    "suffixes": [
+      "05"
+    ]
   },
   {
     "countryCode": "CK",
-    "callingCode": "+682",
-    "flag": "https://flagcdn.com/w320/ck.png"
+    "flag": "https://flagcdn.com/w320/ck.png",
+    "root": "+6",
+    "suffixes": [
+      "82"
+    ]
   },
   {
     "countryCode": "LA",
-    "callingCode": "+856",
-    "flag": "https://flagcdn.com/w320/la.png"
+    "flag": "https://flagcdn.com/w320/la.png",
+    "root": "+8",
+    "suffixes": [
+      "56"
+    ]
   },
   {
     "countryCode": "CX",
-    "callingCode": "+61",
-    "flag": "https://flagcdn.com/w320/cx.png"
+    "flag": "https://flagcdn.com/w320/cx.png",
+    "root": "+6",
+    "suffixes": [
+      "1"
+    ]
   },
   {
     "countryCode": "SH",
-    "callingCode": "+290",
-    "flag": "https://flagcdn.com/w320/sh.png"
-  },
-  {
-    "countryCode": "SH",
-    "callingCode": "+247",
-    "flag": "https://flagcdn.com/w320/sh.png"
+    "flag": "https://flagcdn.com/w320/sh.png",
+    "root": "+2",
+    "suffixes": [
+      "90",
+      "47"
+    ]
   },
   {
     "countryCode": "AI",
-    "callingCode": "+1264",
-    "flag": "https://flagcdn.com/w320/ai.png"
+    "flag": "https://flagcdn.com/w320/ai.png",
+    "root": "+1",
+    "suffixes": [
+      "264"
+    ]
   },
   {
     "countryCode": "FM",
-    "callingCode": "+691",
-    "flag": "https://flagcdn.com/w320/fm.png"
+    "flag": "https://flagcdn.com/w320/fm.png",
+    "root": "+6",
+    "suffixes": [
+      "91"
+    ]
   },
   {
     "countryCode": "DE",
-    "callingCode": "+49",
-    "flag": "https://flagcdn.com/w320/de.png"
+    "flag": "https://flagcdn.com/w320/de.png",
+    "root": "+4",
+    "suffixes": [
+      "9"
+    ]
   },
   {
     "countryCode": "GU",
-    "callingCode": "+1671",
-    "flag": "https://flagcdn.com/w320/gu.png"
+    "flag": "https://flagcdn.com/w320/gu.png",
+    "root": "+1",
+    "suffixes": [
+      "671"
+    ]
   },
   {
     "countryCode": "KI",
-    "callingCode": "+686",
-    "flag": "https://flagcdn.com/w320/ki.png"
+    "flag": "https://flagcdn.com/w320/ki.png",
+    "root": "+6",
+    "suffixes": [
+      "86"
+    ]
   },
   {
     "countryCode": "SX",
-    "callingCode": "+1721",
-    "flag": "https://flagcdn.com/w320/sx.png"
+    "flag": "https://flagcdn.com/w320/sx.png",
+    "root": "+1",
+    "suffixes": [
+      "721"
+    ]
   },
   {
     "countryCode": "ES",
-    "callingCode": "+34",
-    "flag": "https://flagcdn.com/w320/es.png"
+    "flag": "https://flagcdn.com/w320/es.png",
+    "root": "+3",
+    "suffixes": [
+      "4"
+    ]
   },
   {
     "countryCode": "JM",
-    "callingCode": "+1876",
-    "flag": "https://flagcdn.com/w320/jm.png"
+    "flag": "https://flagcdn.com/w320/jm.png",
+    "root": "+1",
+    "suffixes": [
+      "876"
+    ]
   },
   {
     "countryCode": "PS",
-    "callingCode": "+970",
-    "flag": "https://flagcdn.com/w320/ps.png"
+    "flag": "https://flagcdn.com/w320/ps.png",
+    "root": "+9",
+    "suffixes": [
+      "70"
+    ]
   },
   {
     "countryCode": "GF",
-    "callingCode": "+594",
-    "flag": "https://flagcdn.com/w320/gf.png"
+    "flag": "https://flagcdn.com/w320/gf.png",
+    "root": "+5",
+    "suffixes": [
+      "94"
+    ]
   },
   {
     "countryCode": "AD",
-    "callingCode": "+376",
-    "flag": "https://flagcdn.com/w320/ad.png"
+    "flag": "https://flagcdn.com/w320/ad.png",
+    "root": "+3",
+    "suffixes": [
+      "76"
+    ]
   },
   {
     "countryCode": "CL",
-    "callingCode": "+56",
-    "flag": "https://flagcdn.com/w320/cl.png"
+    "flag": "https://flagcdn.com/w320/cl.png",
+    "root": "+5",
+    "suffixes": [
+      "6"
+    ]
   },
   {
     "countryCode": "LS",
-    "callingCode": "+266",
-    "flag": "https://flagcdn.com/w320/ls.png"
+    "flag": "https://flagcdn.com/w320/ls.png",
+    "root": "+2",
+    "suffixes": [
+      "66"
+    ]
   },
   {
     "countryCode": "AU",
-    "callingCode": "+61",
-    "flag": "https://flagcdn.com/w320/au.png"
+    "flag": "https://flagcdn.com/w320/au.png",
+    "root": "+6",
+    "suffixes": [
+      "1"
+    ]
   },
   {
     "countryCode": "GD",
-    "callingCode": "+1473",
-    "flag": "https://flagcdn.com/w320/gd.png"
+    "flag": "https://flagcdn.com/w320/gd.png",
+    "root": "+1",
+    "suffixes": [
+      "473"
+    ]
   },
   {
     "countryCode": "GH",
-    "callingCode": "+233",
-    "flag": "https://flagcdn.com/w320/gh.png"
+    "flag": "https://flagcdn.com/w320/gh.png",
+    "root": "+2",
+    "suffixes": [
+      "33"
+    ]
   },
   {
     "countryCode": "SC",
-    "callingCode": "+248",
-    "flag": "https://flagcdn.com/w320/sc.png"
+    "flag": "https://flagcdn.com/w320/sc.png",
+    "root": "+2",
+    "suffixes": [
+      "48"
+    ]
   },
   {
     "countryCode": "AO",
-    "callingCode": "+244",
-    "flag": "https://flagcdn.com/w320/ao.png"
+    "flag": "https://flagcdn.com/w320/ao.png",
+    "root": "+2",
+    "suffixes": [
+      "44"
+    ]
   },
   {
     "countryCode": "BM",
-    "callingCode": "+1441",
-    "flag": "https://flagcdn.com/w320/bm.png"
+    "flag": "https://flagcdn.com/w320/bm.png",
+    "root": "+1",
+    "suffixes": [
+      "441"
+    ]
   },
   {
     "countryCode": "PK",
-    "callingCode": "+92",
-    "flag": "https://flagcdn.com/w320/pk.png"
+    "flag": "https://flagcdn.com/w320/pk.png",
+    "root": "+9",
+    "suffixes": [
+      "2"
+    ]
   },
   {
     "countryCode": "ML",
-    "callingCode": "+223",
-    "flag": "https://flagcdn.com/w320/ml.png"
+    "flag": "https://flagcdn.com/w320/ml.png",
+    "root": "+2",
+    "suffixes": [
+      "23"
+    ]
   },
   {
     "countryCode": "SA",
-    "callingCode": "+966",
-    "flag": "https://flagcdn.com/w320/sa.png"
+    "flag": "https://flagcdn.com/w320/sa.png",
+    "root": "+9",
+    "suffixes": [
+      "66"
+    ]
   },
   {
     "countryCode": "CW",
-    "callingCode": "+599",
-    "flag": "https://flagcdn.com/w320/cw.png"
+    "flag": "https://flagcdn.com/w320/cw.png",
+    "root": "+5",
+    "suffixes": [
+      "99"
+    ]
   },
   {
     "countryCode": "KR",
-    "callingCode": "+82",
-    "flag": "https://flagcdn.com/w320/kr.png"
+    "flag": "https://flagcdn.com/w320/kr.png",
+    "root": "+8",
+    "suffixes": [
+      "2"
+    ]
   },
   {
     "countryCode": "ET",
-    "callingCode": "+251",
-    "flag": "https://flagcdn.com/w320/et.png"
+    "flag": "https://flagcdn.com/w320/et.png",
+    "root": "+2",
+    "suffixes": [
+      "51"
+    ]
   },
   {
     "countryCode": "GP",
-    "callingCode": "+590",
-    "flag": "https://flagcdn.com/w320/gp.png"
+    "flag": "https://flagcdn.com/w320/gp.png",
+    "root": "+5",
+    "suffixes": [
+      "90"
+    ]
   },
   {
     "countryCode": "BD",
-    "callingCode": "+880",
-    "flag": "https://flagcdn.com/w320/bd.png"
+    "flag": "https://flagcdn.com/w320/bd.png",
+    "root": "+8",
+    "suffixes": [
+      "80"
+    ]
   },
   {
     "countryCode": "NZ",
-    "callingCode": "+64",
-    "flag": "https://flagcdn.com/w320/nz.png"
+    "flag": "https://flagcdn.com/w320/nz.png",
+    "root": "+6",
+    "suffixes": [
+      "4"
+    ]
   },
   {
     "countryCode": "KM",
-    "callingCode": "+269",
-    "flag": "https://flagcdn.com/w320/km.png"
+    "flag": "https://flagcdn.com/w320/km.png",
+    "root": "+2",
+    "suffixes": [
+      "69"
+    ]
   },
   {
     "countryCode": "BZ",
-    "callingCode": "+501",
-    "flag": "https://flagcdn.com/w320/bz.png"
+    "flag": "https://flagcdn.com/w320/bz.png",
+    "root": "+5",
+    "suffixes": [
+      "01"
+    ]
   },
   {
     "countryCode": "UG",
-    "callingCode": "+256",
-    "flag": "https://flagcdn.com/w320/ug.png"
+    "flag": "https://flagcdn.com/w320/ug.png",
+    "root": "+2",
+    "suffixes": [
+      "56"
+    ]
   },
   {
     "countryCode": "SG",
-    "callingCode": "+65",
-    "flag": "https://flagcdn.com/w320/sg.png"
+    "flag": "https://flagcdn.com/w320/sg.png",
+    "root": "+6",
+    "suffixes": [
+      "5"
+    ]
   },
   {
     "countryCode": "LI",
-    "callingCode": "+423",
-    "flag": "https://flagcdn.com/w320/li.png"
+    "flag": "https://flagcdn.com/w320/li.png",
+    "root": "+4",
+    "suffixes": [
+      "23"
+    ]
   },
   {
     "countryCode": "HU",
-    "callingCode": "+36",
-    "flag": "https://flagcdn.com/w320/hu.png"
+    "flag": "https://flagcdn.com/w320/hu.png",
+    "root": "+3",
+    "suffixes": [
+      "6"
+    ]
   },
   {
     "countryCode": "IS",
-    "callingCode": "+354",
-    "flag": "https://flagcdn.com/w320/is.png"
+    "flag": "https://flagcdn.com/w320/is.png",
+    "root": "+3",
+    "suffixes": [
+      "54"
+    ]
   },
   {
     "countryCode": "TJ",
-    "callingCode": "+992",
-    "flag": "https://flagcdn.com/w320/tj.png"
+    "flag": "https://flagcdn.com/w320/tj.png",
+    "root": "+9",
+    "suffixes": [
+      "92"
+    ]
   },
   {
     "countryCode": "NA",
-    "callingCode": "+264",
-    "flag": "https://flagcdn.com/w320/na.png"
+    "flag": "https://flagcdn.com/w320/na.png",
+    "root": "+2",
+    "suffixes": [
+      "64"
+    ]
   },
   {
     "countryCode": "TL",
-    "callingCode": "+670",
-    "flag": "https://flagcdn.com/w320/tl.png"
+    "flag": "https://flagcdn.com/w320/tl.png",
+    "root": "+6",
+    "suffixes": [
+      "70"
+    ]
   },
   {
     "countryCode": "EG",
-    "callingCode": "+20",
-    "flag": "https://flagcdn.com/w320/eg.png"
+    "flag": "https://flagcdn.com/w320/eg.png",
+    "root": "+2",
+    "suffixes": [
+      "0"
+    ]
   },
   {
     "countryCode": "RS",
-    "callingCode": "+381",
-    "flag": "https://flagcdn.com/w320/rs.png"
+    "flag": "https://flagcdn.com/w320/rs.png",
+    "root": "+3",
+    "suffixes": [
+      "81"
+    ]
   },
   {
     "countryCode": "MU",
-    "callingCode": "+230",
-    "flag": "https://flagcdn.com/w320/mu.png"
+    "flag": "https://flagcdn.com/w320/mu.png",
+    "root": "+2",
+    "suffixes": [
+      "30"
+    ]
   },
   {
     "countryCode": "MO",
-    "callingCode": "+853",
-    "flag": "https://flagcdn.com/w320/mo.png"
+    "flag": "https://flagcdn.com/w320/mo.png",
+    "root": "+8",
+    "suffixes": [
+      "53"
+    ]
   },
   {
     "countryCode": "PF",
-    "callingCode": "+689",
-    "flag": "https://flagcdn.com/w320/pf.png"
+    "flag": "https://flagcdn.com/w320/pf.png",
+    "root": "+6",
+    "suffixes": [
+      "89"
+    ]
   },
   {
     "countryCode": "MV",
-    "callingCode": "+960",
-    "flag": "https://flagcdn.com/w320/mv.png"
+    "flag": "https://flagcdn.com/w320/mv.png",
+    "root": "+9",
+    "suffixes": [
+      "60"
+    ]
   },
   {
     "countryCode": "ID",
-    "callingCode": "+62",
-    "flag": "https://flagcdn.com/w320/id.png"
+    "flag": "https://flagcdn.com/w320/id.png",
+    "root": "+6",
+    "suffixes": [
+      "2"
+    ]
   },
   {
     "countryCode": "CD",
-    "callingCode": "+243",
-    "flag": "https://flagcdn.com/w320/cd.png"
+    "flag": "https://flagcdn.com/w320/cd.png",
+    "root": "+2",
+    "suffixes": [
+      "43"
+    ]
   },
   {
     "countryCode": "EE",
-    "callingCode": "+372",
-    "flag": "https://flagcdn.com/w320/ee.png"
+    "flag": "https://flagcdn.com/w320/ee.png",
+    "root": "+3",
+    "suffixes": [
+      "72"
+    ]
   },
   {
     "countryCode": "VN",
-    "callingCode": "+84",
-    "flag": "https://flagcdn.com/w320/vn.png"
+    "flag": "https://flagcdn.com/w320/vn.png",
+    "root": "+8",
+    "suffixes": [
+      "4"
+    ]
   },
   {
     "countryCode": "IT",
-    "callingCode": "+39",
-    "flag": "https://flagcdn.com/w320/it.png"
+    "flag": "https://flagcdn.com/w320/it.png",
+    "root": "+3",
+    "suffixes": [
+      "9"
+    ]
   },
   {
     "countryCode": "GN",
-    "callingCode": "+224",
-    "flag": "https://flagcdn.com/w320/gn.png"
+    "flag": "https://flagcdn.com/w320/gn.png",
+    "root": "+2",
+    "suffixes": [
+      "24"
+    ]
   },
   {
     "countryCode": "TD",
-    "callingCode": "+235",
-    "flag": "https://flagcdn.com/w320/td.png"
+    "flag": "https://flagcdn.com/w320/td.png",
+    "root": "+2",
+    "suffixes": [
+      "35"
+    ]
   },
   {
     "countryCode": "EC",
-    "callingCode": "+593",
-    "flag": "https://flagcdn.com/w320/ec.png"
+    "flag": "https://flagcdn.com/w320/ec.png",
+    "root": "+5",
+    "suffixes": [
+      "93"
+    ]
   },
   {
     "countryCode": "GE",
-    "callingCode": "+995",
-    "flag": "https://flagcdn.com/w320/ge.png"
+    "flag": "https://flagcdn.com/w320/ge.png",
+    "root": "+9",
+    "suffixes": [
+      "95"
+    ]
   },
   {
     "countryCode": "MW",
-    "callingCode": "+265",
-    "flag": "https://flagcdn.com/w320/mw.png"
+    "flag": "https://flagcdn.com/w320/mw.png",
+    "root": "+2",
+    "suffixes": [
+      "65"
+    ]
   },
   {
     "countryCode": "IQ",
-    "callingCode": "+964",
-    "flag": "https://flagcdn.com/w320/iq.png"
+    "flag": "https://flagcdn.com/w320/iq.png",
+    "root": "+9",
+    "suffixes": [
+      "64"
+    ]
   },
   {
     "countryCode": "SJ",
-    "callingCode": "+4779",
-    "flag": "https://flagcdn.com/w320/sj.png"
+    "flag": "https://flagcdn.com/w320/sj.png",
+    "root": "+4",
+    "suffixes": [
+      "779"
+    ]
   },
   {
     "countryCode": "BJ",
-    "callingCode": "+229",
-    "flag": "https://flagcdn.com/w320/bj.png"
+    "flag": "https://flagcdn.com/w320/bj.png",
+    "root": "+2",
+    "suffixes": [
+      "29"
+    ]
   },
   {
     "countryCode": "JP",
-    "callingCode": "+81",
-    "flag": "https://flagcdn.com/w320/jp.png"
+    "flag": "https://flagcdn.com/w320/jp.png",
+    "root": "+8",
+    "suffixes": [
+      "1"
+    ]
   },
   {
     "countryCode": "DO",
-    "callingCode": "+1809",
-    "flag": "https://flagcdn.com/w320/do.png"
-  },
-  {
-    "countryCode": "DO",
-    "callingCode": "+1829",
-    "flag": "https://flagcdn.com/w320/do.png"
-  },
-  {
-    "countryCode": "DO",
-    "callingCode": "+1849",
-    "flag": "https://flagcdn.com/w320/do.png"
+    "flag": "https://flagcdn.com/w320/do.png",
+    "root": "+1",
+    "suffixes": [
+      "809",
+      "829",
+      "849"
+    ]
   },
   {
     "countryCode": "QA",
-    "callingCode": "+974",
-    "flag": "https://flagcdn.com/w320/qa.png"
+    "flag": "https://flagcdn.com/w320/qa.png",
+    "root": "+9",
+    "suffixes": [
+      "74"
+    ]
   },
   {
     "countryCode": "GA",
-    "callingCode": "+241",
-    "flag": "https://flagcdn.com/w320/ga.png"
+    "flag": "https://flagcdn.com/w320/ga.png",
+    "root": "+2",
+    "suffixes": [
+      "41"
+    ]
   }
 ]

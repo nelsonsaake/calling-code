@@ -26,24 +26,18 @@ func main() {
 		panic(err)
 	}
 
-	toCallingCodes := func(country models.Country, suffix string) models.CallingCode {
+	toCallingCodes := func(country models.Country) models.CallingCode {
 		return models.CallingCode{
 			Flag:        country.Flags.Png,
 			CountryCode: country.CountryCode,
-			CallingCode: country.Idd.Root + suffix,
+			Root:        country.Idd.Root,
+			Suffixes:    country.Idd.Suffixes,
 		}
 	}
 
 	for _, country := range countries {
 
-		if len(country.Idd.Suffixes) == 0 {
-			callingCodes = append(callingCodes, toCallingCodes(country, ""))
-			continue
-		}
-
-		for _, suf := range country.Idd.Suffixes {
-			callingCodes = append(callingCodes, toCallingCodes(country, suf))
-		}
+		callingCodes = append(callingCodes, toCallingCodes(country))
 	}
 
 	err = ufs.WriteFile("calling_codes.json", pretty.JSON(callingCodes))
