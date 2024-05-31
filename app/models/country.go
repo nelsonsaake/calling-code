@@ -2,7 +2,10 @@ package models
 
 type Country struct {
 	CountryCode string `json:"cca2"`
-	Flags       struct {
+	Name        struct {
+		Common string `json:"common"`
+	} `json:"name"`
+	Flags struct {
 		Png string `json:"png"`
 	} `json:"flags"`
 	Idd struct {

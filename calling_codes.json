@@ -1,13 +1,13 @@
 [
   {
+    "countryName": "Moldova",
     "countryCode": "MD",
     "flag": "https://flagcdn.com/w320/md.png",
-    "root": "+3",
-    "suffixes": [
-      "73"
-    ]
+    "root": "+373",
+    "suffixes": []
   },
   {
+    "countryName": "United States",
     "countryCode": "US",
     "flag": "https://flagcdn.com/w320/us.png",
     "root": "+1",
@@ -332,158 +332,140 @@
     ]
   },
   {
+    "countryName": "Mayotte",
     "countryCode": "YT",
     "flag": "https://flagcdn.com/w320/yt.png",
-    "root": "+2",
-    "suffixes": [
-      "62"
-    ]
+    "root": "+262",
+    "suffixes": []
   },
   {
+    "countryName": "Nauru",
     "countryCode": "NR",
     "flag": "https://flagcdn.com/w320/nr.png",
-    "root": "+6",
-    "suffixes": [
-      "74"
-    ]
+    "root": "+674",
+    "suffixes": []
   },
   {
+    "countryName": "Mozambique",
     "countryCode": "MZ",
     "flag": "https://flagcdn.com/w320/mz.png",
-    "root": "+2",
-    "suffixes": [
-      "58"
-    ]
+    "root": "+258",
+    "suffixes": []
   },
   {
+    "countryName": "Brazil",
     "countryCode": "BR",
     "flag": "https://flagcdn.com/w320/br.png",
-    "root": "+5",
-    "suffixes": [
-      "5"
-    ]
+    "root": "+55",
+    "suffixes": []
   },
   {
+    "countryName": "Cape Verde",
     "countryCode": "CV",
     "flag": "https://flagcdn.com/w320/cv.png",
-    "root": "+2",
-    "suffixes": [
-      "38"
-    ]
+    "root": "+238",
+    "suffixes": []
   },
   {
+    "countryName": "Equatorial Guinea",
     "countryCode": "GQ",
     "flag": "https://flagcdn.com/w320/gq.png",
-    "root": "+2",
-    "suffixes": [
-      "40"
-    ]
+    "root": "+240",
+    "suffixes": []
   },
   {
+    "countryName": "Albania",
     "countryCode": "AL",
     "flag": "https://flagcdn.com/w320/al.png",
-    "root": "+3",
-    "suffixes": [
-      "55"
-    ]
+    "root": "+355",
+    "suffixes": []
   },
   {
+    "countryName": "United States Virgin Islands",
     "countryCode": "VI",
     "flag": "https://flagcdn.com/w320/vi.png",
-    "root": "+1",
-    "suffixes": [
-      "340"
-    ]
+    "root": "+1340",
+    "suffixes": []
   },
   {
+    "countryName": "Niue",
     "countryCode": "NU",
     "flag": "https://flagcdn.com/w320/nu.png",
-    "root": "+6",
-    "suffixes": [
-      "83"
-    ]
+    "root": "+683",
+    "suffixes": []
   },
   {
+    "countryName": "Palau",
     "countryCode": "PW",
     "flag": "https://flagcdn.com/w320/pw.png",
-    "root": "+6",
-    "suffixes": [
-      "80"
-    ]
+    "root": "+680",
+    "suffixes": []
   },
   {
+    "countryName": "Nigeria",
     "countryCode": "NG",
     "flag": "https://flagcdn.com/w320/ng.png",
-    "root": "+2",
-    "suffixes": [
-      "34"
-    ]
+    "root": "+234",
+    "suffixes": []
   },
   {
+    "countryName": "British Virgin Islands",
     "countryCode": "VG",
     "flag": "https://flagcdn.com/w320/vg.png",
-    "root": "+1",
-    "suffixes": [
-      "284"
-    ]
+    "root": "+1284",
+    "suffixes": []
   },
   {
+    "countryName": "Gambia",
     "countryCode": "GM",
     "flag": "https://flagcdn.com/w320/gm.png",
-    "root": "+2",
-    "suffixes": [
-      "20"
-    ]
+    "root": "+220",
+    "suffixes": []
   },
   {
+    "countryName": "Somalia",
     "countryCode": "SO",
     "flag": "https://flagcdn.com/w320/so.png",
-    "root": "+2",
-    "suffixes": [
-      "52"
-    ]
+    "root": "+252",
+    "suffixes": []
   },
   {
+    "countryName": "Yemen",
     "countryCode": "YE",
     "flag": "https://flagcdn.com/w320/ye.png",
-    "root": "+9",
-    "suffixes": [
-      "67"
-    ]
+    "root": "+967",
+    "suffixes": []
   },
   {
+    "countryName": "Malaysia",
     "countryCode": "MY",
     "flag": "https://flagcdn.com/w320/my.png",
-    "root": "+6",
-    "suffixes": [
-      "0"
-    ]
+    "root": "+60",
+    "suffixes": []
   },
   {
+    "countryName": "Dominica",
     "countryCode": "DM",
     "flag": "https://flagcdn.com/w320/dm.png",
-    "root": "+1",
-    "suffixes": [
-      "767"
-    ]
+    "root": "+1767",
+    "suffixes": []
   },
   {
+    "countryName": "United Kingdom",
     "countryCode": "GB",
     "flag": "https://flagcdn.com/w320/gb.png",
-    "root": "+4",
-    "suffixes": [
-      "4"
-    ]
+    "root": "+44",
+    "suffixes": []
   },
   {
+    "countryName": "Madagascar",
     "countryCode": "MG",
     "flag": "https://flagcdn.com/w320/mg.png",
-    "root": "+2",
-    "suffixes": [
-      "61"
-    ]
+    "root": "+261",
+    "suffixes": []
   },
   {
+    "countryName": "Western Sahara",
     "countryCode": "EH",
     "flag": "https://flagcdn.com/w320/eh.png",
     "root": "+2",
@@ -493,260 +475,231 @@
     ]
   },
   {
+    "countryName": "Cyprus",
     "countryCode": "CY",
     "flag": "https://flagcdn.com/w320/cy.png",
-    "root": "+3",
-    "suffixes": [
-      "57"
-    ]
+    "root": "+357",
+    "suffixes": []
   },
   {
+    "countryName": "Antigua and Barbuda",
     "countryCode": "AG",
     "flag": "https://flagcdn.com/w320/ag.png",
-    "root": "+1",
-    "suffixes": [
-      "268"
-    ]
+    "root": "+1268",
+    "suffixes": []
   },
   {
+    "countryName": "Ireland",
     "countryCode": "IE",
     "flag": "https://flagcdn.com/w320/ie.png",
-    "root": "+3",
-    "suffixes": [
-      "53"
-    ]
+    "root": "+353",
+    "suffixes": []
   },
   {
+    "countryName": "Paraguay",
     "countryCode": "PY",
     "flag": "https://flagcdn.com/w320/py.png",
-    "root": "+5",
-    "suffixes": [
-      "95"
-    ]
+    "root": "+595",
+    "suffixes": []
   },
   {
+    "countryName": "Sri Lanka",
     "countryCode": "LK",
     "flag": "https://flagcdn.com/w320/lk.png",
-    "root": "+9",
-    "suffixes": [
-      "4"
-    ]
+    "root": "+94",
+    "suffixes": []
   },
   {
+    "countryName": "South Africa",
     "countryCode": "ZA",
     "flag": "https://flagcdn.com/w320/za.png",
-    "root": "+2",
-    "suffixes": [
-      "7"
-    ]
+    "root": "+27",
+    "suffixes": []
   },
   {
+    "countryName": "Kuwait",
     "countryCode": "KW",
     "flag": "https://flagcdn.com/w320/kw.png",
-    "root": "+9",
-    "suffixes": [
-      "65"
-    ]
+    "root": "+965",
+    "suffixes": []
   },
   {
+    "countryName": "Algeria",
     "countryCode": "DZ",
     "flag": "https://flagcdn.com/w320/dz.png",
-    "root": "+2",
-    "suffixes": [
-      "13"
-    ]
+    "root": "+213",
+    "suffixes": []
   },
   {
+    "countryName": "Croatia",
     "countryCode": "HR",
     "flag": "https://flagcdn.com/w320/hr.png",
-    "root": "+3",
-    "suffixes": [
-      "85"
-    ]
+    "root": "+385",
+    "suffixes": []
   },
   {
+    "countryName": "Martinique",
     "countryCode": "MQ",
     "flag": "https://flagcdn.com/w320/mq.png",
-    "root": "+5",
-    "suffixes": [
-      "96"
-    ]
+    "root": "+596",
+    "suffixes": []
   },
   {
+    "countryName": "Sierra Leone",
     "countryCode": "SL",
     "flag": "https://flagcdn.com/w320/sl.png",
-    "root": "+2",
-    "suffixes": [
-      "32"
-    ]
+    "root": "+232",
+    "suffixes": []
   },
   {
+    "countryName": "Northern Mariana Islands",
     "countryCode": "MP",
     "flag": "https://flagcdn.com/w320/mp.png",
-    "root": "+1",
-    "suffixes": [
-      "670"
-    ]
+    "root": "+1670",
+    "suffixes": []
   },
   {
+    "countryName": "Rwanda",
     "countryCode": "RW",
     "flag": "https://flagcdn.com/w320/rw.png",
-    "root": "+2",
-    "suffixes": [
-      "50"
-    ]
+    "root": "+250",
+    "suffixes": []
   },
   {
+    "countryName": "Syria",
     "countryCode": "SY",
     "flag": "https://flagcdn.com/w320/sy.png",
-    "root": "+9",
-    "suffixes": [
-      "63"
-    ]
+    "root": "+963",
+    "suffixes": []
   },
   {
+    "countryName": "Saint Vincent and the Grenadines",
     "countryCode": "VC",
     "flag": "https://flagcdn.com/w320/vc.png",
-    "root": "+1",
-    "suffixes": [
-      "784"
-    ]
+    "root": "+1784",
+    "suffixes": []
   },
   {
+    "countryName": "Kosovo",
     "countryCode": "XK",
     "flag": "https://flagcdn.com/w320/xk.png",
-    "root": "+3",
-    "suffixes": [
-      "83"
-    ]
+    "root": "+383",
+    "suffixes": []
   },
   {
+    "countryName": "Saint Lucia",
     "countryCode": "LC",
     "flag": "https://flagcdn.com/w320/lc.png",
-    "root": "+1",
-    "suffixes": [
-      "758"
-    ]
+    "root": "+1758",
+    "suffixes": []
   },
   {
+    "countryName": "Honduras",
     "countryCode": "HN",
     "flag": "https://flagcdn.com/w320/hn.png",
-    "root": "+5",
-    "suffixes": [
-      "04"
-    ]
+    "root": "+504",
+    "suffixes": []
   },
   {
+    "countryName": "Jordan",
     "countryCode": "JO",
     "flag": "https://flagcdn.com/w320/jo.png",
-    "root": "+9",
-    "suffixes": [
-      "62"
-    ]
+    "root": "+962",
+    "suffixes": []
   },
   {
+    "countryName": "Tuvalu",
     "countryCode": "TV",
     "flag": "https://flagcdn.com/w320/tv.png",
-    "root": "+6",
-    "suffixes": [
-      "88"
-    ]
+    "root": "+688",
+    "suffixes": []
   },
   {
+    "countryName": "Nepal",
     "countryCode": "NP",
     "flag": "https://flagcdn.com/w320/np.png",
-    "root": "+9",
-    "suffixes": [
-      "77"
-    ]
+    "root": "+977",
+    "suffixes": []
   },
   {
+    "countryName": "Liberia",
     "countryCode": "LR",
     "flag": "https://flagcdn.com/w320/lr.png",
-    "root": "+2",
-    "suffixes": [
-      "31"
-    ]
+    "root": "+231",
+    "suffixes": []
   },
   {
+    "countryName": "Heard Island and McDonald Islands",
     "countryCode": "HM",
     "flag": "https://flagcdn.com/w320/hm.png",
     "root": "",
     "suffixes": []
   },
   {
+    "countryName": "Austria",
     "countryCode": "AT",
     "flag": "https://flagcdn.com/w320/at.png",
-    "root": "+4",
-    "suffixes": [
-      "3"
-    ]
+    "root": "+43",
+    "suffixes": []
   },
   {
+    "countryName": "Guernsey",
     "countryCode": "GG",
     "flag": "https://flagcdn.com/w320/gg.png",
-    "root": "+4",
-    "suffixes": [
-      "4"
-    ]
+    "root": "+44",
+    "suffixes": []
   },
   {
+    "countryName": "Central African Republic",
     "countryCode": "CF",
     "flag": "https://flagcdn.com/w320/cf.png",
-    "root": "+2",
-    "suffixes": [
-      "36"
-    ]
+    "root": "+236",
+    "suffixes": []
   },
   {
+    "countryName": "Mauritania",
     "countryCode": "MR",
     "flag": "https://flagcdn.com/w320/mr.png",
-    "root": "+2",
-    "suffixes": [
-      "22"
-    ]
+    "root": "+222",
+    "suffixes": []
   },
   {
+    "countryName": "Djibouti",
     "countryCode": "DJ",
     "flag": "https://flagcdn.com/w320/dj.png",
-    "root": "+2",
-    "suffixes": [
-      "53"
-    ]
+    "root": "+253",
+    "suffixes": []
   },
   {
+    "countryName": "Fiji",
     "countryCode": "FJ",
     "flag": "https://flagcdn.com/w320/fj.png",
-    "root": "+6",
-    "suffixes": [
-      "79"
-    ]
+    "root": "+679",
+    "suffixes": []
   },
   {
+    "countryName": "Norway",
     "countryCode": "NO",
     "flag": "https://flagcdn.com/w320/no.png",
-    "root": "+4",
-    "suffixes": [
-      "7"
-    ]
+    "root": "+47",
+    "suffixes": []
   },
   {
+    "countryName": "Latvia",
     "countryCode": "LV",
     "flag": "https://flagcdn.com/w320/lv.png",
-    "root": "+3",
-    "suffixes": [
-      "71"
-    ]
+    "root": "+371",
+    "suffixes": []
   },
   {
+    "countryName": "Falkland Islands",
     "countryCode": "FK",
     "flag": "https://flagcdn.com/w320/fk.png",
-    "root": "+5",
-    "suffixes": [
-      "00"
-    ]
+    "root": "+500",
+    "suffixes": []
   },
   {
+    "countryName": "Kazakhstan",
     "countryCode": "KZ",
     "flag": "https://flagcdn.com/w320/kz.png",
     "root": "+7",
@@ -756,212 +709,189 @@
     ]
   },
   {
+    "countryName": "Åland Islands",
     "countryCode": "AX",
     "flag": "https://flagcdn.com/w320/ax.png",
-    "root": "+3",
-    "suffixes": [
-      "5818"
-    ]
+    "root": "+35818",
+    "suffixes": []
   },
   {
+    "countryName": "Turkmenistan",
     "countryCode": "TM",
     "flag": "https://flagcdn.com/w320/tm.png",
-    "root": "+9",
-    "suffixes": [
-      "93"
-    ]
+    "root": "+993",
+    "suffixes": []
   },
   {
+    "countryName": "Cocos (Keeling) Islands",
     "countryCode": "CC",
     "flag": "https://flagcdn.com/w320/cc.png",
-    "root": "+6",
-    "suffixes": [
-      "1"
-    ]
+    "root": "+61",
+    "suffixes": []
   },
   {
+    "countryName": "Bulgaria",
     "countryCode": "BG",
     "flag": "https://flagcdn.com/w320/bg.png",
-    "root": "+3",
-    "suffixes": [
-      "59"
-    ]
+    "root": "+359",
+    "suffixes": []
   },
   {
+    "countryName": "Tokelau",
     "countryCode": "TK",
     "flag": "https://flagcdn.com/w320/tk.png",
-    "root": "+6",
-    "suffixes": [
-      "90"
-    ]
+    "root": "+690",
+    "suffixes": []
   },
   {
+    "countryName": "New Caledonia",
     "countryCode": "NC",
     "flag": "https://flagcdn.com/w320/nc.png",
-    "root": "+6",
-    "suffixes": [
-      "87"
-    ]
+    "root": "+687",
+    "suffixes": []
   },
   {
+    "countryName": "Barbados",
     "countryCode": "BB",
     "flag": "https://flagcdn.com/w320/bb.png",
-    "root": "+1",
-    "suffixes": [
-      "246"
-    ]
+    "root": "+1246",
+    "suffixes": []
   },
   {
+    "countryName": "São Tomé and Príncipe",
     "countryCode": "ST",
     "flag": "https://flagcdn.com/w320/st.png",
-    "root": "+2",
-    "suffixes": [
-      "39"
-    ]
+    "root": "+239",
+    "suffixes": []
   },
   {
+    "countryName": "Antarctica",
     "countryCode": "AQ",
     "flag": "https://flagcdn.com/w320/aq.png",
     "root": "",
     "suffixes": []
   },
   {
+    "countryName": "Brunei",
     "countryCode": "BN",
     "flag": "https://flagcdn.com/w320/bn.png",
-    "root": "+6",
-    "suffixes": [
-      "73"
-    ]
+    "root": "+673",
+    "suffixes": []
   },
   {
+    "countryName": "Bhutan",
     "countryCode": "BT",
     "flag": "https://flagcdn.com/w320/bt.png",
-    "root": "+9",
-    "suffixes": [
-      "75"
-    ]
+    "root": "+975",
+    "suffixes": []
   },
   {
+    "countryName": "Cameroon",
     "countryCode": "CM",
     "flag": "https://flagcdn.com/w320/cm.png",
-    "root": "+2",
-    "suffixes": [
-      "37"
-    ]
+    "root": "+237",
+    "suffixes": []
   },
   {
+    "countryName": "Argentina",
     "countryCode": "AR",
     "flag": "https://flagcdn.com/w320/ar.png",
-    "root": "+5",
-    "suffixes": [
-      "4"
-    ]
+    "root": "+54",
+    "suffixes": []
   },
   {
+    "countryName": "Azerbaijan",
     "countryCode": "AZ",
     "flag": "https://flagcdn.com/w320/az.png",
-    "root": "+9",
-    "suffixes": [
-      "94"
-    ]
+    "root": "+994",
+    "suffixes": []
   },
   {
+    "countryName": "Mexico",
     "countryCode": "MX",
     "flag": "https://flagcdn.com/w320/mx.png",
-    "root": "+5",
-    "suffixes": [
-      "2"
-    ]
+    "root": "+52",
+    "suffixes": []
   },
   {
+    "countryName": "Morocco",
     "countryCode": "MA",
     "flag": "https://flagcdn.com/w320/ma.png",
-    "root": "+2",
-    "suffixes": [
-      "12"
-    ]
+    "root": "+212",
+    "suffixes": []
   },
   {
+    "countryName": "Guatemala",
     "countryCode": "GT",
     "flag": "https://flagcdn.com/w320/gt.png",
-    "root": "+5",
-    "suffixes": [
-      "02"
-    ]
+    "root": "+502",
+    "suffixes": []
   },
   {
+    "countryName": "Kenya",
     "countryCode": "KE",
     "flag": "https://flagcdn.com/w320/ke.png",
-    "root": "+2",
-    "suffixes": [
-      "54"
-    ]
+    "root": "+254",
+    "suffixes": []
   },
   {
+    "countryName": "Malta",
     "countryCode": "MT",
     "flag": "https://flagcdn.com/w320/mt.png",
-    "root": "+3",
-    "suffixes": [
-      "56"
-    ]
+    "root": "+356",
+    "suffixes": []
   },
   {
+    "countryName": "Czechia",
     "countryCode": "CZ",
     "flag": "https://flagcdn.com/w320/cz.png",
-    "root": "+4",
-    "suffixes": [
-      "20"
-    ]
+    "root": "+420",
+    "suffixes": []
   },
   {
+    "countryName": "Gibraltar",
     "countryCode": "GI",
     "flag": "https://flagcdn.com/w320/gi.png",
-    "root": "+3",
-    "suffixes": [
-      "50"
-    ]
+    "root": "+350",
+    "suffixes": []
   },
   {
+    "countryName": "Aruba",
     "countryCode": "AW",
     "flag": "https://flagcdn.com/w320/aw.png",
-    "root": "+2",
-    "suffixes": [
-      "97"
-    ]
+    "root": "+297",
+    "suffixes": []
   },
   {
+    "countryName": "Saint Barthélemy",
     "countryCode": "BL",
     "flag": "https://flagcdn.com/w320/bl.png",
-    "root": "+5",
-    "suffixes": [
-      "90"
-    ]
+    "root": "+590",
+    "suffixes": []
   },
   {
+    "countryName": "Monaco",
     "countryCode": "MC",
     "flag": "https://flagcdn.com/w320/mc.png",
-    "root": "+3",
-    "suffixes": [
-      "77"
-    ]
+    "root": "+377",
+    "suffixes": []
   },
   {
+    "countryName": "United Arab Emirates",
     "countryCode": "AE",
     "flag": "https://flagcdn.com/w320/ae.png",
-    "root": "+9",
-    "suffixes": [
-      "71"
-    ]
+    "root": "+971",
+    "suffixes": []
   },
   {
+    "countryName": "South Sudan",
     "countryCode": "SS",
     "flag": "https://flagcdn.com/w320/ss.png",
-    "root": "+2",
-    "suffixes": [
-      "11"
-    ]
+    "root": "+211",
+    "suffixes": []
   },
   {
+    "countryName": "Puerto Rico",
     "countryCode": "PR",
     "flag": "https://flagcdn.com/w320/pr.png",
     "root": "+1",
@@ -971,518 +901,455 @@
     ]
   },
   {
+    "countryName": "El Salvador",
     "countryCode": "SV",
     "flag": "https://flagcdn.com/w320/sv.png",
-    "root": "+5",
-    "suffixes": [
-      "03"
-    ]
+    "root": "+503",
+    "suffixes": []
   },
   {
+    "countryName": "France",
     "countryCode": "FR",
     "flag": "https://flagcdn.com/w320/fr.png",
-    "root": "+3",
-    "suffixes": [
-      "3"
-    ]
+    "root": "+33",
+    "suffixes": []
   },
   {
+    "countryName": "Niger",
     "countryCode": "NE",
     "flag": "https://flagcdn.com/w320/ne.png",
-    "root": "+2",
-    "suffixes": [
-      "27"
-    ]
+    "root": "+227",
+    "suffixes": []
   },
   {
+    "countryName": "Ivory Coast",
     "countryCode": "CI",
     "flag": "https://flagcdn.com/w320/ci.png",
-    "root": "+2",
-    "suffixes": [
-      "25"
-    ]
+    "root": "+225",
+    "suffixes": []
   },
   {
+    "countryName": "South Georgia",
     "countryCode": "GS",
     "flag": "https://flagcdn.com/w320/gs.png",
-    "root": "+5",
-    "suffixes": [
-      "00"
-    ]
+    "root": "+500",
+    "suffixes": []
   },
   {
+    "countryName": "Botswana",
     "countryCode": "BW",
     "flag": "https://flagcdn.com/w320/bw.png",
-    "root": "+2",
-    "suffixes": [
-      "67"
-    ]
+    "root": "+267",
+    "suffixes": []
   },
   {
+    "countryName": "British Indian Ocean Territory",
     "countryCode": "IO",
     "flag": "https://flagcdn.com/w320/io.png",
-    "root": "+2",
-    "suffixes": [
-      "46"
-    ]
+    "root": "+246",
+    "suffixes": []
   },
   {
+    "countryName": "Uzbekistan",
     "countryCode": "UZ",
     "flag": "https://flagcdn.com/w320/uz.png",
-    "root": "+9",
-    "suffixes": [
-      "98"
-    ]
+    "root": "+998",
+    "suffixes": []
   },
   {
+    "countryName": "Tunisia",
     "countryCode": "TN",
     "flag": "https://flagcdn.com/w320/tn.png",
-    "root": "+2",
-    "suffixes": [
-      "16"
-    ]
+    "root": "+216",
+    "suffixes": []
   },
   {
+    "countryName": "Hong Kong",
     "countryCode": "HK",
     "flag": "https://flagcdn.com/w320/hk.png",
-    "root": "+8",
-    "suffixes": [
-      "52"
-    ]
+    "root": "+852",
+    "suffixes": []
   },
   {
+    "countryName": "North Macedonia",
     "countryCode": "MK",
     "flag": "https://flagcdn.com/w320/mk.png",
-    "root": "+3",
-    "suffixes": [
-      "89"
-    ]
+    "root": "+389",
+    "suffixes": []
   },
   {
+    "countryName": "Suriname",
     "countryCode": "SR",
     "flag": "https://flagcdn.com/w320/sr.png",
-    "root": "+5",
-    "suffixes": [
-      "97"
-    ]
+    "root": "+597",
+    "suffixes": []
   },
   {
+    "countryName": "Belgium",
     "countryCode": "BE",
     "flag": "https://flagcdn.com/w320/be.png",
-    "root": "+3",
-    "suffixes": [
-      "2"
-    ]
+    "root": "+32",
+    "suffixes": []
   },
   {
+    "countryName": "American Samoa",
     "countryCode": "AS",
     "flag": "https://flagcdn.com/w320/as.png",
-    "root": "+1",
-    "suffixes": [
-      "684"
-    ]
+    "root": "+1684",
+    "suffixes": []
   },
   {
+    "countryName": "Solomon Islands",
     "countryCode": "SB",
     "flag": "https://flagcdn.com/w320/sb.png",
-    "root": "+6",
-    "suffixes": [
-      "77"
-    ]
+    "root": "+677",
+    "suffixes": []
   },
   {
+    "countryName": "Ukraine",
     "countryCode": "UA",
     "flag": "https://flagcdn.com/w320/ua.png",
-    "root": "+3",
-    "suffixes": [
-      "80"
-    ]
+    "root": "+380",
+    "suffixes": []
   },
   {
+    "countryName": "Finland",
     "countryCode": "FI",
     "flag": "https://flagcdn.com/w320/fi.png",
-    "root": "+3",
-    "suffixes": [
-      "58"
-    ]
+    "root": "+358",
+    "suffixes": []
   },
   {
+    "countryName": "Burkina Faso",
     "countryCode": "BF",
     "flag": "https://flagcdn.com/w320/bf.png",
-    "root": "+2",
-    "suffixes": [
-      "26"
-    ]
+    "root": "+226",
+    "suffixes": []
   },
   {
+    "countryName": "Bosnia and Herzegovina",
     "countryCode": "BA",
     "flag": "https://flagcdn.com/w320/ba.png",
-    "root": "+3",
-    "suffixes": [
-      "87"
-    ]
+    "root": "+387",
+    "suffixes": []
   },
   {
+    "countryName": "Iran",
     "countryCode": "IR",
     "flag": "https://flagcdn.com/w320/ir.png",
-    "root": "+9",
-    "suffixes": [
-      "8"
-    ]
+    "root": "+98",
+    "suffixes": []
   },
   {
+    "countryName": "Cuba",
     "countryCode": "CU",
     "flag": "https://flagcdn.com/w320/cu.png",
-    "root": "+5",
-    "suffixes": [
-      "3"
-    ]
+    "root": "+53",
+    "suffixes": []
   },
   {
+    "countryName": "Eritrea",
     "countryCode": "ER",
     "flag": "https://flagcdn.com/w320/er.png",
-    "root": "+2",
-    "suffixes": [
-      "91"
-    ]
+    "root": "+291",
+    "suffixes": []
   },
   {
+    "countryName": "Slovakia",
     "countryCode": "SK",
     "flag": "https://flagcdn.com/w320/sk.png",
-    "root": "+4",
-    "suffixes": [
-      "21"
-    ]
+    "root": "+421",
+    "suffixes": []
   },
   {
+    "countryName": "Lithuania",
     "countryCode": "LT",
     "flag": "https://flagcdn.com/w320/lt.png",
-    "root": "+3",
-    "suffixes": [
-      "70"
-    ]
+    "root": "+370",
+    "suffixes": []
   },
   {
+    "countryName": "Saint Martin",
     "countryCode": "MF",
     "flag": "https://flagcdn.com/w320/mf.png",
-    "root": "+5",
-    "suffixes": [
-      "90"
-    ]
+    "root": "+590",
+    "suffixes": []
   },
   {
+    "countryName": "Pitcairn Islands",
     "countryCode": "PN",
     "flag": "https://flagcdn.com/w320/pn.png",
-    "root": "+6",
-    "suffixes": [
-      "4"
-    ]
+    "root": "+64",
+    "suffixes": []
   },
   {
+    "countryName": "Guinea-Bissau",
     "countryCode": "GW",
     "flag": "https://flagcdn.com/w320/gw.png",
-    "root": "+2",
-    "suffixes": [
-      "45"
-    ]
+    "root": "+245",
+    "suffixes": []
   },
   {
+    "countryName": "Montserrat",
     "countryCode": "MS",
     "flag": "https://flagcdn.com/w320/ms.png",
-    "root": "+1",
-    "suffixes": [
-      "664"
-    ]
+    "root": "+1664",
+    "suffixes": []
   },
   {
+    "countryName": "Turkey",
     "countryCode": "TR",
     "flag": "https://flagcdn.com/w320/tr.png",
-    "root": "+9",
-    "suffixes": [
-      "0"
-    ]
+    "root": "+90",
+    "suffixes": []
   },
   {
+    "countryName": "Philippines",
     "countryCode": "PH",
     "flag": "https://flagcdn.com/w320/ph.png",
-    "root": "+6",
-    "suffixes": [
-      "3"
-    ]
+    "root": "+63",
+    "suffixes": []
   },
   {
+    "countryName": "Vanuatu",
     "countryCode": "VU",
     "flag": "https://flagcdn.com/w320/vu.png",
-    "root": "+6",
-    "suffixes": [
-      "78"
-    ]
+    "root": "+678",
+    "suffixes": []
   },
   {
+    "countryName": "Bolivia",
     "countryCode": "BO",
     "flag": "https://flagcdn.com/w320/bo.png",
-    "root": "+5",
-    "suffixes": [
-      "91"
-    ]
+    "root": "+591",
+    "suffixes": []
   },
   {
+    "countryName": "Saint Kitts and Nevis",
     "countryCode": "KN",
     "flag": "https://flagcdn.com/w320/kn.png",
-    "root": "+1",
-    "suffixes": [
-      "869"
-    ]
+    "root": "+1869",
+    "suffixes": []
   },
   {
+    "countryName": "Romania",
     "countryCode": "RO",
     "flag": "https://flagcdn.com/w320/ro.png",
-    "root": "+4",
-    "suffixes": [
-      "0"
-    ]
+    "root": "+40",
+    "suffixes": []
   },
   {
+    "countryName": "Cambodia",
     "countryCode": "KH",
     "flag": "https://flagcdn.com/w320/kh.png",
-    "root": "+8",
-    "suffixes": [
-      "55"
-    ]
+    "root": "+855",
+    "suffixes": []
   },
   {
+    "countryName": "Zimbabwe",
     "countryCode": "ZW",
     "flag": "https://flagcdn.com/w320/zw.png",
-    "root": "+2",
-    "suffixes": [
-      "63"
-    ]
+    "root": "+263",
+    "suffixes": []
   },
   {
+    "countryName": "Jersey",
     "countryCode": "JE",
     "flag": "https://flagcdn.com/w320/je.png",
-    "root": "+4",
-    "suffixes": [
-      "4"
-    ]
+    "root": "+44",
+    "suffixes": []
   },
   {
+    "countryName": "Kyrgyzstan",
     "countryCode": "KG",
     "flag": "https://flagcdn.com/w320/kg.png",
-    "root": "+9",
-    "suffixes": [
-      "96"
-    ]
+    "root": "+996",
+    "suffixes": []
   },
   {
+    "countryName": "Caribbean Netherlands",
     "countryCode": "BQ",
     "flag": "https://flagcdn.com/w320/bq.png",
-    "root": "+5",
-    "suffixes": [
-      "99"
-    ]
+    "root": "+599",
+    "suffixes": []
   },
   {
+    "countryName": "Guyana",
     "countryCode": "GY",
     "flag": "https://flagcdn.com/w320/gy.png",
-    "root": "+5",
-    "suffixes": [
-      "92"
-    ]
+    "root": "+592",
+    "suffixes": []
   },
   {
+    "countryName": "United States Minor Outlying Islands",
     "countryCode": "UM",
     "flag": "https://flagcdn.com/w320/um.png",
-    "root": "+2",
-    "suffixes": [
-      "68"
-    ]
+    "root": "+268",
+    "suffixes": []
   },
   {
+    "countryName": "Armenia",
     "countryCode": "AM",
     "flag": "https://flagcdn.com/w320/am.png",
-    "root": "+3",
-    "suffixes": [
-      "74"
-    ]
+    "root": "+374",
+    "suffixes": []
   },
   {
+    "countryName": "Lebanon",
     "countryCode": "LB",
     "flag": "https://flagcdn.com/w320/lb.png",
-    "root": "+9",
-    "suffixes": [
-      "61"
-    ]
+    "root": "+961",
+    "suffixes": []
   },
   {
+    "countryName": "Montenegro",
     "countryCode": "ME",
     "flag": "https://flagcdn.com/w320/me.png",
-    "root": "+3",
-    "suffixes": [
-      "82"
-    ]
+    "root": "+382",
+    "suffixes": []
   },
   {
+    "countryName": "Greenland",
     "countryCode": "GL",
     "flag": "https://flagcdn.com/w320/gl.png",
-    "root": "+2",
-    "suffixes": [
-      "99"
-    ]
+    "root": "+299",
+    "suffixes": []
   },
   {
+    "countryName": "Papua New Guinea",
     "countryCode": "PG",
     "flag": "https://flagcdn.com/w320/pg.png",
-    "root": "+6",
-    "suffixes": [
-      "75"
-    ]
+    "root": "+675",
+    "suffixes": []
   },
   {
+    "countryName": "Zambia",
     "countryCode": "ZM",
     "flag": "https://flagcdn.com/w320/zm.png",
-    "root": "+2",
-    "suffixes": [
-      "60"
-    ]
+    "root": "+260",
+    "suffixes": []
   },
   {
+    "countryName": "Trinidad and Tobago",
     "countryCode": "TT",
     "flag": "https://flagcdn.com/w320/tt.png",
-    "root": "+1",
-    "suffixes": [
-      "868"
-    ]
+    "root": "+1868",
+    "suffixes": []
   },
   {
+    "countryName": "French Southern and Antarctic Lands",
     "countryCode": "TF",
     "flag": "https://flagcdn.com/w320/tf.png",
-    "root": "+2",
-    "suffixes": [
-      "62"
-    ]
+    "root": "+262",
+    "suffixes": []
   },
   {
+    "countryName": "Peru",
     "countryCode": "PE",
     "flag": "https://flagcdn.com/w320/pe.png",
-    "root": "+5",
-    "suffixes": [
-      "1"
-    ]
+    "root": "+51",
+    "suffixes": []
   },
   {
+    "countryName": "Sweden",
     "countryCode": "SE",
     "flag": "https://flagcdn.com/w320/se.png",
-    "root": "+4",
-    "suffixes": [
-      "6"
-    ]
+    "root": "+46",
+    "suffixes": []
   },
   {
+    "countryName": "Sudan",
     "countryCode": "SD",
     "flag": "https://flagcdn.com/w320/sd.png",
-    "root": "+2",
-    "suffixes": [
-      "49"
-    ]
+    "root": "+249",
+    "suffixes": []
   },
   {
+    "countryName": "Saint Pierre and Miquelon",
     "countryCode": "PM",
     "flag": "https://flagcdn.com/w320/pm.png",
-    "root": "+5",
-    "suffixes": [
-      "08"
-    ]
+    "root": "+508",
+    "suffixes": []
   },
   {
+    "countryName": "Oman",
     "countryCode": "OM",
     "flag": "https://flagcdn.com/w320/om.png",
-    "root": "+9",
-    "suffixes": [
-      "68"
-    ]
+    "root": "+968",
+    "suffixes": []
   },
   {
+    "countryName": "India",
     "countryCode": "IN",
     "flag": "https://flagcdn.com/w320/in.png",
-    "root": "+9",
-    "suffixes": [
-      "1"
-    ]
+    "root": "+91",
+    "suffixes": []
   },
   {
+    "countryName": "Taiwan",
     "countryCode": "TW",
     "flag": "https://flagcdn.com/w320/tw.png",
-    "root": "+8",
-    "suffixes": [
-      "86"
-    ]
+    "root": "+886",
+    "suffixes": []
   },
   {
+    "countryName": "Mongolia",
     "countryCode": "MN",
     "flag": "https://flagcdn.com/w320/mn.png",
-    "root": "+9",
-    "suffixes": [
-      "76"
-    ]
+    "root": "+976",
+    "suffixes": []
   },
   {
+    "countryName": "Senegal",
     "countryCode": "SN",
     "flag": "https://flagcdn.com/w320/sn.png",
-    "root": "+2",
-    "suffixes": [
-      "21"
-    ]
+    "root": "+221",
+    "suffixes": []
   },
   {
+    "countryName": "Tanzania",
     "countryCode": "TZ",
     "flag": "https://flagcdn.com/w320/tz.png",
-    "root": "+2",
-    "suffixes": [
-      "55"
-    ]
+    "root": "+255",
+    "suffixes": []
   },
   {
+    "countryName": "Canada",
     "countryCode": "CA",
     "flag": "https://flagcdn.com/w320/ca.png",
     "root": "+1",
-    "suffixes": [
-      ""
-    ]
+    "suffixes": []
   },
   {
+    "countryName": "Costa Rica",
     "countryCode": "CR",
     "flag": "https://flagcdn.com/w320/cr.png",
-    "root": "+5",
-    "suffixes": [
-      "06"
-    ]
+    "root": "+506",
+    "suffixes": []
   },
   {
+    "countryName": "China",
     "countryCode": "CN",
     "flag": "https://flagcdn.com/w320/cn.png",
-    "root": "+8",
-    "suffixes": [
-      "6"
-    ]
+    "root": "+86",
+    "suffixes": []
   },
   {
+    "countryName": "Colombia",
     "countryCode": "CO",
     "flag": "https://flagcdn.com/w320/co.png",
-    "root": "+5",
-    "suffixes": [
-      "7"
-    ]
+    "root": "+57",
+    "suffixes": []
   },
   {
+    "countryName": "Myanmar",
     "countryCode": "MM",
     "flag": "https://flagcdn.com/w320/mm.png",
-    "root": "+9",
-    "suffixes": [
-      "5"
-    ]
+    "root": "+95",
+    "suffixes": []
   },
   {
+    "countryName": "Russia",
     "countryCode": "RU",
     "flag": "https://flagcdn.com/w320/ru.png",
     "root": "+7",
@@ -1495,206 +1362,182 @@
     ]
   },
   {
+    "countryName": "North Korea",
     "countryCode": "KP",
     "flag": "https://flagcdn.com/w320/kp.png",
-    "root": "+8",
-    "suffixes": [
-      "50"
-    ]
+    "root": "+850",
+    "suffixes": []
   },
   {
+    "countryName": "Cayman Islands",
     "countryCode": "KY",
     "flag": "https://flagcdn.com/w320/ky.png",
-    "root": "+1",
-    "suffixes": [
-      "345"
-    ]
+    "root": "+1345",
+    "suffixes": []
   },
   {
+    "countryName": "Bouvet Island",
     "countryCode": "BV",
     "flag": "https://flagcdn.com/w320/bv.png",
-    "root": "+4",
-    "suffixes": [
-      "7"
-    ]
+    "root": "+47",
+    "suffixes": []
   },
   {
+    "countryName": "Belarus",
     "countryCode": "BY",
     "flag": "https://flagcdn.com/w320/by.png",
-    "root": "+3",
-    "suffixes": [
-      "75"
-    ]
+    "root": "+375",
+    "suffixes": []
   },
   {
+    "countryName": "Portugal",
     "countryCode": "PT",
     "flag": "https://flagcdn.com/w320/pt.png",
-    "root": "+3",
-    "suffixes": [
-      "51"
-    ]
+    "root": "+351",
+    "suffixes": []
   },
   {
+    "countryName": "Eswatini",
     "countryCode": "SZ",
     "flag": "https://flagcdn.com/w320/sz.png",
-    "root": "+2",
-    "suffixes": [
-      "68"
-    ]
+    "root": "+268",
+    "suffixes": []
   },
   {
+    "countryName": "Poland",
     "countryCode": "PL",
     "flag": "https://flagcdn.com/w320/pl.png",
-    "root": "+4",
-    "suffixes": [
-      "8"
-    ]
+    "root": "+48",
+    "suffixes": []
   },
   {
+    "countryName": "Switzerland",
     "countryCode": "CH",
     "flag": "https://flagcdn.com/w320/ch.png",
-    "root": "+4",
-    "suffixes": [
-      "1"
-    ]
+    "root": "+41",
+    "suffixes": []
   },
   {
+    "countryName": "Republic of the Congo",
     "countryCode": "CG",
     "flag": "https://flagcdn.com/w320/cg.png",
-    "root": "+2",
-    "suffixes": [
-      "42"
-    ]
+    "root": "+242",
+    "suffixes": []
   },
   {
+    "countryName": "Venezuela",
     "countryCode": "VE",
     "flag": "https://flagcdn.com/w320/ve.png",
-    "root": "+5",
-    "suffixes": [
-      "8"
-    ]
+    "root": "+58",
+    "suffixes": []
   },
   {
+    "countryName": "Panama",
     "countryCode": "PA",
     "flag": "https://flagcdn.com/w320/pa.png",
-    "root": "+5",
-    "suffixes": [
-      "07"
-    ]
+    "root": "+507",
+    "suffixes": []
   },
   {
+    "countryName": "Netherlands",
     "countryCode": "NL",
     "flag": "https://flagcdn.com/w320/nl.png",
-    "root": "+3",
-    "suffixes": [
-      "1"
-    ]
+    "root": "+31",
+    "suffixes": []
   },
   {
+    "countryName": "Samoa",
     "countryCode": "WS",
     "flag": "https://flagcdn.com/w320/ws.png",
-    "root": "+6",
-    "suffixes": [
-      "85"
-    ]
+    "root": "+685",
+    "suffixes": []
   },
   {
+    "countryName": "Denmark",
     "countryCode": "DK",
     "flag": "https://flagcdn.com/w320/dk.png",
-    "root": "+4",
-    "suffixes": [
-      "5"
-    ]
+    "root": "+45",
+    "suffixes": []
   },
   {
+    "countryName": "Luxembourg",
     "countryCode": "LU",
     "flag": "https://flagcdn.com/w320/lu.png",
-    "root": "+3",
-    "suffixes": [
-      "52"
-    ]
+    "root": "+352",
+    "suffixes": []
   },
   {
+    "countryName": "Faroe Islands",
     "countryCode": "FO",
     "flag": "https://flagcdn.com/w320/fo.png",
-    "root": "+2",
-    "suffixes": [
-      "98"
-    ]
+    "root": "+298",
+    "suffixes": []
   },
   {
+    "countryName": "Slovenia",
     "countryCode": "SI",
     "flag": "https://flagcdn.com/w320/si.png",
-    "root": "+3",
-    "suffixes": [
-      "86"
-    ]
+    "root": "+386",
+    "suffixes": []
   },
   {
+    "countryName": "Togo",
     "countryCode": "TG",
     "flag": "https://flagcdn.com/w320/tg.png",
-    "root": "+2",
-    "suffixes": [
-      "28"
-    ]
+    "root": "+228",
+    "suffixes": []
   },
   {
+    "countryName": "Thailand",
     "countryCode": "TH",
     "flag": "https://flagcdn.com/w320/th.png",
-    "root": "+6",
-    "suffixes": [
-      "6"
-    ]
+    "root": "+66",
+    "suffixes": []
   },
   {
+    "countryName": "Wallis and Futuna",
     "countryCode": "WF",
     "flag": "https://flagcdn.com/w320/wf.png",
-    "root": "+6",
-    "suffixes": [
-      "81"
-    ]
+    "root": "+681",
+    "suffixes": []
   },
   {
+    "countryName": "Bahamas",
     "countryCode": "BS",
     "flag": "https://flagcdn.com/w320/bs.png",
-    "root": "+1",
-    "suffixes": [
-      "242"
-    ]
+    "root": "+1242",
+    "suffixes": []
   },
   {
+    "countryName": "Tonga",
     "countryCode": "TO",
     "flag": "https://flagcdn.com/w320/to.png",
-    "root": "+6",
-    "suffixes": [
-      "76"
-    ]
+    "root": "+676",
+    "suffixes": []
   },
   {
+    "countryName": "Greece",
     "countryCode": "GR",
     "flag": "https://flagcdn.com/w320/gr.png",
-    "root": "+3",
-    "suffixes": [
-      "0"
-    ]
+    "root": "+30",
+    "suffixes": []
   },
   {
+    "countryName": "San Marino",
     "countryCode": "SM",
     "flag": "https://flagcdn.com/w320/sm.png",
-    "root": "+3",
-    "suffixes": [
-      "78"
-    ]
+    "root": "+378",
+    "suffixes": []
   },
   {
+    "countryName": "Réunion",
     "countryCode": "RE",
     "flag": "https://flagcdn.com/w320/re.png",
-    "root": "+2",
-    "suffixes": [
-      "62"
-    ]
+    "root": "+262",
+    "suffixes": []
   },
   {
+    "countryName": "Vatican City",
     "countryCode": "VA",
     "flag": "https://flagcdn.com/w320/va.png",
     "root": "+3",
@@ -1704,126 +1547,112 @@
     ]
   },
   {
+    "countryName": "Burundi",
     "countryCode": "BI",
     "flag": "https://flagcdn.com/w320/bi.png",
-    "root": "+2",
-    "suffixes": [
-      "57"
-    ]
+    "root": "+257",
+    "suffixes": []
   },
   {
+    "countryName": "Bahrain",
     "countryCode": "BH",
     "flag": "https://flagcdn.com/w320/bh.png",
-    "root": "+9",
-    "suffixes": [
-      "73"
-    ]
+    "root": "+973",
+    "suffixes": []
   },
   {
+    "countryName": "Marshall Islands",
     "countryCode": "MH",
     "flag": "https://flagcdn.com/w320/mh.png",
-    "root": "+6",
-    "suffixes": [
-      "92"
-    ]
+    "root": "+692",
+    "suffixes": []
   },
   {
+    "countryName": "Turks and Caicos Islands",
     "countryCode": "TC",
     "flag": "https://flagcdn.com/w320/tc.png",
-    "root": "+1",
-    "suffixes": [
-      "649"
-    ]
+    "root": "+1649",
+    "suffixes": []
   },
   {
+    "countryName": "Isle of Man",
     "countryCode": "IM",
     "flag": "https://flagcdn.com/w320/im.png",
-    "root": "+4",
-    "suffixes": [
-      "4"
-    ]
+    "root": "+44",
+    "suffixes": []
   },
   {
+    "countryName": "Haiti",
     "countryCode": "HT",
     "flag": "https://flagcdn.com/w320/ht.png",
-    "root": "+5",
-    "suffixes": [
-      "09"
-    ]
+    "root": "+509",
+    "suffixes": []
   },
   {
+    "countryName": "Afghanistan",
     "countryCode": "AF",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
-    "root": "+9",
-    "suffixes": [
-      "3"
-    ]
+    "root": "+93",
+    "suffixes": []
   },
   {
+    "countryName": "Israel",
     "countryCode": "IL",
     "flag": "https://flagcdn.com/w320/il.png",
-    "root": "+9",
-    "suffixes": [
-      "72"
-    ]
+    "root": "+972",
+    "suffixes": []
   },
   {
+    "countryName": "Libya",
     "countryCode": "LY",
     "flag": "https://flagcdn.com/w320/ly.png",
-    "root": "+2",
-    "suffixes": [
-      "18"
-    ]
+    "root": "+218",
+    "suffixes": []
   },
   {
+    "countryName": "Uruguay",
     "countryCode": "UY",
     "flag": "https://flagcdn.com/w320/uy.png",
-    "root": "+5",
-    "suffixes": [
-      "98"
-    ]
+    "root": "+598",
+    "suffixes": []
   },
   {
+    "countryName": "Norfolk Island",
     "countryCode": "NF",
     "flag": "https://flagcdn.com/w320/nf.png",
-    "root": "+6",
-    "suffixes": [
-      "72"
-    ]
+    "root": "+672",
+    "suffixes": []
   },
   {
+    "countryName": "Nicaragua",
     "countryCode": "NI",
     "flag": "https://flagcdn.com/w320/ni.png",
-    "root": "+5",
-    "suffixes": [
-      "05"
-    ]
+    "root": "+505",
+    "suffixes": []
   },
   {
+    "countryName": "Cook Islands",
     "countryCode": "CK",
     "flag": "https://flagcdn.com/w320/ck.png",
-    "root": "+6",
-    "suffixes": [
-      "82"
-    ]
+    "root": "+682",
+    "suffixes": []
   },
   {
+    "countryName": "Laos",
     "countryCode": "LA",
     "flag": "https://flagcdn.com/w320/la.png",
-    "root": "+8",
-    "suffixes": [
-      "56"
-    ]
+    "root": "+856",
+    "suffixes": []
   },
   {
+    "countryName": "Christmas Island",
     "countryCode": "CX",
     "flag": "https://flagcdn.com/w320/cx.png",
-    "root": "+6",
-    "suffixes": [
-      "1"
-    ]
+    "root": "+61",
+    "suffixes": []
   },
   {
+    "countryName": "Saint Helena, Ascension and Tristan da Cunha",
     "countryCode": "SH",
     "flag": "https://flagcdn.com/w320/sh.png",
     "root": "+2",
@@ -1833,470 +1662,413 @@
     ]
   },
   {
+    "countryName": "Anguilla",
     "countryCode": "AI",
     "flag": "https://flagcdn.com/w320/ai.png",
-    "root": "+1",
-    "suffixes": [
-      "264"
-    ]
+    "root": "+1264",
+    "suffixes": []
   },
   {
+    "countryName": "Micronesia",
     "countryCode": "FM",
     "flag": "https://flagcdn.com/w320/fm.png",
-    "root": "+6",
-    "suffixes": [
-      "91"
-    ]
+    "root": "+691",
+    "suffixes": []
   },
   {
+    "countryName": "Germany",
     "countryCode": "DE",
     "flag": "https://flagcdn.com/w320/de.png",
-    "root": "+4",
-    "suffixes": [
-      "9"
-    ]
+    "root": "+49",
+    "suffixes": []
   },
   {
+    "countryName": "Guam",
     "countryCode": "GU",
     "flag": "https://flagcdn.com/w320/gu.png",
-    "root": "+1",
-    "suffixes": [
-      "671"
-    ]
+    "root": "+1671",
+    "suffixes": []
   },
   {
+    "countryName": "Kiribati",
     "countryCode": "KI",
     "flag": "https://flagcdn.com/w320/ki.png",
-    "root": "+6",
-    "suffixes": [
-      "86"
-    ]
+    "root": "+686",
+    "suffixes": []
   },
   {
+    "countryName": "Sint Maarten",
     "countryCode": "SX",
     "flag": "https://flagcdn.com/w320/sx.png",
-    "root": "+1",
-    "suffixes": [
-      "721"
-    ]
+    "root": "+1721",
+    "suffixes": []
   },
   {
+    "countryName": "Spain",
     "countryCode": "ES",
     "flag": "https://flagcdn.com/w320/es.png",
-    "root": "+3",
-    "suffixes": [
-      "4"
-    ]
+    "root": "+34",
+    "suffixes": []
   },
   {
+    "countryName": "Jamaica",
     "countryCode": "JM",
     "flag": "https://flagcdn.com/w320/jm.png",
-    "root": "+1",
-    "suffixes": [
-      "876"
-    ]
+    "root": "+1876",
+    "suffixes": []
   },
   {
+    "countryName": "Palestine",
     "countryCode": "PS",
     "flag": "https://flagcdn.com/w320/ps.png",
-    "root": "+9",
-    "suffixes": [
-      "70"
-    ]
+    "root": "+970",
+    "suffixes": []
   },
   {
+    "countryName": "French Guiana",
     "countryCode": "GF",
     "flag": "https://flagcdn.com/w320/gf.png",
-    "root": "+5",
-    "suffixes": [
-      "94"
-    ]
+    "root": "+594",
+    "suffixes": []
   },
   {
+    "countryName": "Andorra",
     "countryCode": "AD",
     "flag": "https://flagcdn.com/w320/ad.png",
-    "root": "+3",
-    "suffixes": [
-      "76"
-    ]
+    "root": "+376",
+    "suffixes": []
   },
   {
+    "countryName": "Chile",
     "countryCode": "CL",
     "flag": "https://flagcdn.com/w320/cl.png",
-    "root": "+5",
-    "suffixes": [
-      "6"
-    ]
+    "root": "+56",
+    "suffixes": []
   },
   {
+    "countryName": "Lesotho",
     "countryCode": "LS",
     "flag": "https://flagcdn.com/w320/ls.png",
-    "root": "+2",
-    "suffixes": [
-      "66"
-    ]
+    "root": "+266",
+    "suffixes": []
   },
   {
+    "countryName": "Australia",
     "countryCode": "AU",
     "flag": "https://flagcdn.com/w320/au.png",
-    "root": "+6",
-    "suffixes": [
-      "1"
-    ]
+    "root": "+61",
+    "suffixes": []
   },
   {
+    "countryName": "Grenada",
     "countryCode": "GD",
     "flag": "https://flagcdn.com/w320/gd.png",
-    "root": "+1",
-    "suffixes": [
-      "473"
-    ]
+    "root": "+1473",
+    "suffixes": []
   },
   {
+    "countryName": "Ghana",
     "countryCode": "GH",
     "flag": "https://flagcdn.com/w320/gh.png",
-    "root": "+2",
-    "suffixes": [
-      "33"
-    ]
+    "root": "+233",
+    "suffixes": []
   },
   {
+    "countryName": "Seychelles",
     "countryCode": "SC",
     "flag": "https://flagcdn.com/w320/sc.png",
-    "root": "+2",
-    "suffixes": [
-      "48"
-    ]
+    "root": "+248",
+    "suffixes": []
   },
   {
+    "countryName": "Angola",
     "countryCode": "AO",
     "flag": "https://flagcdn.com/w320/ao.png",
-    "root": "+2",
-    "suffixes": [
-      "44"
-    ]
+    "root": "+244",
+    "suffixes": []
   },
   {
+    "countryName": "Bermuda",
     "countryCode": "BM",
     "flag": "https://flagcdn.com/w320/bm.png",
-    "root": "+1",
-    "suffixes": [
-      "441"
-    ]
+    "root": "+1441",
+    "suffixes": []
   },
   {
+    "countryName": "Pakistan",
     "countryCode": "PK",
     "flag": "https://flagcdn.com/w320/pk.png",
-    "root": "+9",
-    "suffixes": [
-      "2"
-    ]
+    "root": "+92",
+    "suffixes": []
   },
   {
+    "countryName": "Mali",
     "countryCode": "ML",
     "flag": "https://flagcdn.com/w320/ml.png",
-    "root": "+2",
-    "suffixes": [
-      "23"
-    ]
+    "root": "+223",
+    "suffixes": []
   },
   {
+    "countryName": "Saudi Arabia",
     "countryCode": "SA",
     "flag": "https://flagcdn.com/w320/sa.png",
-    "root": "+9",
-    "suffixes": [
-      "66"
-    ]
+    "root": "+966",
+    "suffixes": []
   },
   {
+    "countryName": "Curaçao",
     "countryCode": "CW",
     "flag": "https://flagcdn.com/w320/cw.png",
-    "root": "+5",
-    "suffixes": [
-      "99"
-    ]
+    "root": "+599",
+    "suffixes": []
   },
   {
+    "countryName": "South Korea",
     "countryCode": "KR",
     "flag": "https://flagcdn.com/w320/kr.png",
-    "root": "+8",
-    "suffixes": [
-      "2"
-    ]
+    "root": "+82",
+    "suffixes": []
   },
   {
+    "countryName": "Ethiopia",
     "countryCode": "ET",
     "flag": "https://flagcdn.com/w320/et.png",
-    "root": "+2",
-    "suffixes": [
-      "51"
-    ]
+    "root": "+251",
+    "suffixes": []
   },
   {
+    "countryName": "Guadeloupe",
     "countryCode": "GP",
     "flag": "https://flagcdn.com/w320/gp.png",
-    "root": "+5",
-    "suffixes": [
-      "90"
-    ]
+    "root": "+590",
+    "suffixes": []
   },
   {
+    "countryName": "Bangladesh",
     "countryCode": "BD",
     "flag": "https://flagcdn.com/w320/bd.png",
-    "root": "+8",
-    "suffixes": [
-      "80"
-    ]
+    "root": "+880",
+    "suffixes": []
   },
   {
+    "countryName": "New Zealand",
     "countryCode": "NZ",
     "flag": "https://flagcdn.com/w320/nz.png",
-    "root": "+6",
-    "suffixes": [
-      "4"
-    ]
+    "root": "+64",
+    "suffixes": []
   },
   {
+    "countryName": "Comoros",
     "countryCode": "KM",
     "flag": "https://flagcdn.com/w320/km.png",
-    "root": "+2",
-    "suffixes": [
-      "69"
-    ]
+    "root": "+269",
+    "suffixes": []
   },
   {
+    "countryName": "Belize",
     "countryCode": "BZ",
     "flag": "https://flagcdn.com/w320/bz.png",
-    "root": "+5",
-    "suffixes": [
-      "01"
-    ]
+    "root": "+501",
+    "suffixes": []
   },
   {
+    "countryName": "Uganda",
     "countryCode": "UG",
     "flag": "https://flagcdn.com/w320/ug.png",
-    "root": "+2",
-    "suffixes": [
-      "56"
-    ]
+    "root": "+256",
+    "suffixes": []
   },
   {
+    "countryName": "Singapore",
     "countryCode": "SG",
     "flag": "https://flagcdn.com/w320/sg.png",
-    "root": "+6",
-    "suffixes": [
-      "5"
-    ]
+    "root": "+65",
+    "suffixes": []
   },
   {
+    "countryName": "Liechtenstein",
     "countryCode": "LI",
     "flag": "https://flagcdn.com/w320/li.png",
-    "root": "+4",
-    "suffixes": [
-      "23"
-    ]
+    "root": "+423",
+    "suffixes": []
   },
   {
+    "countryName": "Hungary",
     "countryCode": "HU",
     "flag": "https://flagcdn.com/w320/hu.png",
-    "root": "+3",
-    "suffixes": [
-      "6"
-    ]
+    "root": "+36",
+    "suffixes": []
   },
   {
+    "countryName": "Iceland",
     "countryCode": "IS",
     "flag": "https://flagcdn.com/w320/is.png",
-    "root": "+3",
-    "suffixes": [
-      "54"
-    ]
+    "root": "+354",
+    "suffixes": []
   },
   {
+    "countryName": "Tajikistan",
     "countryCode": "TJ",
     "flag": "https://flagcdn.com/w320/tj.png",
-    "root": "+9",
-    "suffixes": [
-      "92"
-    ]
+    "root": "+992",
+    "suffixes": []
   },
   {
+    "countryName": "Namibia",
     "countryCode": "NA",
     "flag": "https://flagcdn.com/w320/na.png",
-    "root": "+2",
-    "suffixes": [
-      "64"
-    ]
+    "root": "+264",
+    "suffixes": []
   },
   {
+    "countryName": "Timor-Leste",
     "countryCode": "TL",
     "flag": "https://flagcdn.com/w320/tl.png",
-    "root": "+6",
-    "suffixes": [
-      "70"
-    ]
+    "root": "+670",
+    "suffixes": []
   },
   {
+    "countryName": "Egypt",
     "countryCode": "EG",
     "flag": "https://flagcdn.com/w320/eg.png",
-    "root": "+2",
-    "suffixes": [
-      "0"
-    ]
+    "root": "+20",
+    "suffixes": []
   },
   {
+    "countryName": "Serbia",
     "countryCode": "RS",
     "flag": "https://flagcdn.com/w320/rs.png",
-    "root": "+3",
-    "suffixes": [
-      "81"
-    ]
+    "root": "+381",
+    "suffixes": []
   },
   {
+    "countryName": "Mauritius",
     "countryCode": "MU",
     "flag": "https://flagcdn.com/w320/mu.png",
-    "root": "+2",
-    "suffixes": [
-      "30"
-    ]
+    "root": "+230",
+    "suffixes": []
   },
   {
+    "countryName": "Macau",
     "countryCode": "MO",
     "flag": "https://flagcdn.com/w320/mo.png",
-    "root": "+8",
-    "suffixes": [
-      "53"
-    ]
+    "root": "+853",
+    "suffixes": []
   },
   {
+    "countryName": "French Polynesia",
     "countryCode": "PF",
     "flag": "https://flagcdn.com/w320/pf.png",
-    "root": "+6",
-    "suffixes": [
-      "89"
-    ]
+    "root": "+689",
+    "suffixes": []
   },
   {
+    "countryName": "Maldives",
     "countryCode": "MV",
     "flag": "https://flagcdn.com/w320/mv.png",
-    "root": "+9",
-    "suffixes": [
-      "60"
-    ]
+    "root": "+960",
+    "suffixes": []
   },
   {
+    "countryName": "Indonesia",
     "countryCode": "ID",
     "flag": "https://flagcdn.com/w320/id.png",
-    "root": "+6",
-    "suffixes": [
-      "2"
-    ]
+    "root": "+62",
+    "suffixes": []
   },
   {
+    "countryName": "DR Congo",
     "countryCode": "CD",
     "flag": "https://flagcdn.com/w320/cd.png",
-    "root": "+2",
-    "suffixes": [
-      "43"
-    ]
+    "root": "+243",
+    "suffixes": []
   },
   {
+    "countryName": "Estonia",
     "countryCode": "EE",
     "flag": "https://flagcdn.com/w320/ee.png",
-    "root": "+3",
-    "suffixes": [
-      "72"
-    ]
+    "root": "+372",
+    "suffixes": []
   },
   {
+    "countryName": "Vietnam",
     "countryCode": "VN",
     "flag": "https://flagcdn.com/w320/vn.png",
-    "root": "+8",
-    "suffixes": [
-      "4"
-    ]
+    "root": "+84",
+    "suffixes": []
   },
   {
+    "countryName": "Italy",
     "countryCode": "IT",
     "flag": "https://flagcdn.com/w320/it.png",
-    "root": "+3",
-    "suffixes": [
-      "9"
-    ]
+    "root": "+39",
+    "suffixes": []
   },
   {
+    "countryName": "Guinea",
     "countryCode": "GN",
     "flag": "https://flagcdn.com/w320/gn.png",
-    "root": "+2",
-    "suffixes": [
-      "24"
-    ]
+    "root": "+224",
+    "suffixes": []
   },
   {
+    "countryName": "Chad",
     "countryCode": "TD",
     "flag": "https://flagcdn.com/w320/td.png",
-    "root": "+2",
-    "suffixes": [
-      "35"
-    ]
+    "root": "+235",
+    "suffixes": []
   },
   {
+    "countryName": "Ecuador",
     "countryCode": "EC",
     "flag": "https://flagcdn.com/w320/ec.png",
-    "root": "+5",
-    "suffixes": [
-      "93"
-    ]
+    "root": "+593",
+    "suffixes": []
   },
   {
+    "countryName": "Georgia",
     "countryCode": "GE",
     "flag": "https://flagcdn.com/w320/ge.png",
-    "root": "+9",
-    "suffixes": [
-      "95"
-    ]
+    "root": "+995",
+    "suffixes": []
   },
   {
+    "countryName": "Malawi",
     "countryCode": "MW",
     "flag": "https://flagcdn.com/w320/mw.png",
-    "root": "+2",
-    "suffixes": [
-      "65"
-    ]
+    "root": "+265",
+    "suffixes": []
   },
   {
+    "countryName": "Iraq",
     "countryCode": "IQ",
     "flag": "https://flagcdn.com/w320/iq.png",
-    "root": "+9",
-    "suffixes": [
-      "64"
-    ]
+    "root": "+964",
+    "suffixes": []
   },
   {
+    "countryName": "Svalbard and Jan Mayen",
     "countryCode": "SJ",
     "flag": "https://flagcdn.com/w320/sj.png",
-    "root": "+4",
-    "suffixes": [
-      "779"
-    ]
+    "root": "+4779",
+    "suffixes": []
   },
   {
+    "countryName": "Benin",
     "countryCode": "BJ",
     "flag": "https://flagcdn.com/w320/bj.png",
-    "root": "+2",
-    "suffixes": [
-      "29"
-    ]
+    "root": "+229",
+    "suffixes": []
   },
   {
+    "countryName": "Japan",
     "countryCode": "JP",
     "flag": "https://flagcdn.com/w320/jp.png",
-    "root": "+8",
-    "suffixes": [
-      "1"
-    ]
+    "root": "+81",
+    "suffixes": []
   },
   {
+    "countryName": "Dominican Republic",
     "countryCode": "DO",
     "flag": "https://flagcdn.com/w320/do.png",
     "root": "+1",
@@ -2307,19 +2079,17 @@
     ]
   },
   {
+    "countryName": "Qatar",
     "countryCode": "QA",
     "flag": "https://flagcdn.com/w320/qa.png",
-    "root": "+9",
-    "suffixes": [
-      "74"
-    ]
+    "root": "+974",
+    "suffixes": []
   },
   {
+    "countryName": "Gabon",
     "countryCode": "GA",
     "flag": "https://flagcdn.com/w320/ga.png",
-    "root": "+2",
-    "suffixes": [
-      "41"
-    ]
+    "root": "+241",
+    "suffixes": []
   }
 ]
