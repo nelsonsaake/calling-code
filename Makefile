@@ -15,7 +15,7 @@ temp:
 
 get: 
 	cls
-	go get github.com/nelsonsaake/go-ns@v0.0.12
+	go get github.com/nelsonsaake/go-ns@v0.0.17
 	go get github.com/nelsonsaake/go-ns@latest
 
 pull:

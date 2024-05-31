@@ -2,57 +2,57 @@ package main
 
 import (
 	"encoding/json"
+	"fmt"
+	"path/filepath"
+	"strings"
+
+	_ "embed"
 
 	"github.com/nelsonsaake/calling-code/app/models"
+	"github.com/nelsonsaake/go-ns/dld"
 	"github.com/nelsonsaake/go-ns/pretty"
+	"github.com/nelsonsaake/go-ns/str"
 	"github.com/nelsonsaake/go-ns/ufs"
 )
 
 var (
-	countriesJsonFile = "countries.json"
-	countries         = []models.Country{}
-	callingCodes      = []models.CallingCode{}
+	//go:embed calling_codes.json
+	callingCodeJson string
+
+	callingCodeBytes = []byte(callingCodeJson)
+
+	callingCodes = []models.CallingCode{}
+
+	flagStorage = "storage/flags"
 )
 
 func main() {
 
-	bs, err := ufs.ReadFileAsBytes(countriesJsonFile)
+	err := json.Unmarshal(callingCodeBytes, &callingCodes)
 	if err != nil {
 		panic(err)
 	}
 
-	err = json.Unmarshal(bs, &countries)
-	if err != nil {
-		panic(err)
-	}
+	for _, callingCode := range callingCodes {
 
-	toCallingCodes := func(country models.Country) models.CallingCode {
+		fmt.Printf("downloading %v\n", callingCode.Flag)
 
-		var root = country.Idd.Root
-		var suffixes = []string{}
-
-		if len(country.Idd.Suffixes) == 1 {
-			root += country.Idd.Suffixes[0]
-		} else {
-			suffixes = country.Idd.Suffixes
+		if str.IsEmpty(callingCode.Flag) {
+			pretty.Print(callingCode)
+			continue
 		}
 
-		return models.CallingCode{
-			Flag:        country.Flags.Png,
-			CountryName: country.Name.Common,
-			CountryCode: country.CountryCode,
-			Root:        root,
-			Suffixes:    suffixes,
+		src, err := dld.DownloadFile(callingCode.Flag, flagStorage)
+		if err != nil {
+			panic(fmt.Errorf("error downloading file: %v", err))
 		}
-	}
 
-	for _, country := range countries {
+		dst := filepath.Join(flagStorage, callingCode.CountryCode+filepath.Ext(src))
+		dst = strings.ToLower(dst)
 
-		callingCodes = append(callingCodes, toCallingCodes(country))
-	}
-
-	err = ufs.WriteFile("calling_codes.json", pretty.JSON(callingCodes))
-	if err != nil {
-		panic(err)
+		err = ufs.Rename(src, dst)
+		if err != err {
+			panic(err)
+		}
 	}
 }
